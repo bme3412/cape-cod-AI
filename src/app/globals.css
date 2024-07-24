@@ -3,31 +3,114 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+  --primary-color: #2563eb;
+  --primary-light: #60a5fa;
+  --primary-dark: #1e40af;
+  --secondary-color: #10b981;
+  --text-color: #1f2937;
+  --background-color: #f3f4f6;
+  --white: #ffffff;
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+@layer base {
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold text-gray-800;
+  }
+
+  h1 {
+    @apply text-4xl md:text-5xl mb-4;
+  }
+
+  h2 {
+    @apply text-3xl md:text-4xl mb-6;
+  }
+
+  h3 {
+    @apply text-2xl md:text-3xl mb-4;
+  }
+
+  p {
+    @apply text-gray-600 mb-4;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md shadow-sm transition duration-300 ease-in-out;
+  }
+
+  .btn-primary {
+    @apply btn bg-blue-600 text-white hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500;
+  }
+
+  .btn-secondary {
+    @apply btn bg-white text-blue-600 border-blue-600 hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500;
+  }
+
+  .card {
+    @apply bg-white rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-lg;
+  }
+
+  .hero {
+    @apply relative py-20 bg-gradient-to-r from-blue-600 to-blue-800 text-white;
+  }
+
+  .hero-content {
+    @apply text-center;
+  }
+
+  .feature-grid {
+    @apply grid grid-cols-1 md:grid-cols-3 gap-8;
+  }
+
+  .feature-item {
+    @apply card p-6;
+  }
+
+  .testimonial-grid {
+    @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8;
+  }
+
+  .testimonial-item {
+    @apply card p-6;
+  }
+
+  .town-preview {
+    @apply flex flex-col md:flex-row items-center gap-6 mb-12;
+  }
+
+  .town-image {
+    @apply w-full md:w-1/2 rounded-lg overflow-hidden;
+  }
+
+  .town-description {
+    @apply flex-1;
+  }
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+
+  .bg-gradient {
+    @apply bg-gradient-to-b from-blue-50 to-white;
+  }
+
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
   }
 }
