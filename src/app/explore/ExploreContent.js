@@ -72,12 +72,12 @@ export default function ExploreContent() {
           </form>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <ImageCard src="/api/placeholder/400/300" alt="Cape Cod Beach" title="Craigville Beach" />
-          <ImageCard src="/api/placeholder/400/300" alt="Cape Cod Restaurant" title="The Lobster Pot" />
-          <ImageCard src="/api/placeholder/400/300" alt="Cape Cod Activity" title="Whale Watching Tour" />
-          <ImageCard src="/api/placeholder/400/300" alt="Cape Cod Accommodation" title="Sea Crest Beach Hotel" />
-          <ImageCard src="/api/placeholder/400/300" alt="Cape Cod Lighthouse" title="Highland Light" />
-          <ImageCard src="/api/placeholder/400/300" alt="Cape Cod Museum" title="Provincetown Museum" />
+          <ImageCard src="/images/beach.jpg" alt="Cape Cod Beach" title="Craigville Beach" />
+          <ImageCard src="/images/restaurant.jpg" alt="Cape Cod Restaurant" title="The Lobster Pot" />
+          <ImageCard src="/images/whale-watching.jpg" alt="Cape Cod Activity" title="Whale Watching Tour" />
+          <ImageCard src="/images/hotel.jpg" alt="Cape Cod Accommodation" title="Sea Crest Beach Hotel" />
+          <ImageCard src="/images/lighthouse.jpg" alt="Cape Cod Lighthouse" title="Highland Light" />
+          <ImageCard src="/images/museum.jpg" alt="Cape Cod Museum" title="Provincetown Museum" />
         </div>
       </main>
     </div>
