@@ -2,11 +2,12 @@
 
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ArrowRight, MapPin, Calendar, Compass, Users, FolderOpen } from 'lucide-react';
 
 const TownCard = ({ name, image, description }) => (
   <div className="bg-white rounded-lg overflow-hidden shadow-lg transition-all duration-300 hover:shadow-xl">
-    <img src={image} alt={name} className="w-full h-64 object-cover" />
+    <Image src={image} alt={name} width={800} height={600} className="w-full h-64 object-cover" />
     <div className="p-8">
       <h3 className="text-2xl font-semibold mb-3 text-gray-800">{name}</h3>
       <p className="text-gray-600 mb-6">{description}</p>
@@ -108,7 +109,7 @@ export default function Home() {
             <HowItWorksStep
               icon={<ArrowRight className="h-12 w-12" />}
               title="Start chatting with us"
-              description="Begin by sharing your preferences or take our travel style quiz. We'll use this information to craft your perfect Cape Cod experience."
+              description="Begin by sharing your preferences or take our travel style quiz. We&apos;ll use this information to craft your perfect Cape Cod experience."
             />
             <HowItWorksStep
               icon={<MapPin className="h-12 w-12" />}
@@ -130,7 +131,7 @@ export default function Home() {
 
         <section className="text-center bg-blue-600 text-white py-32 px-4 rounded-3xl mb-32">
           <h2 className="text-4xl font-semibold mb-6">Ready for your Cape Cod adventure?</h2>
-          <p className="text-2xl mb-12 max-w-3xl mx-auto">Create your personalized itinerary today and unlock the best of Cape Cod's charm, beauty, and experiences.</p>
+          <p className="text-2xl mb-12 max-w-3xl mx-auto">Create your personalized itinerary today and unlock the best of Cape Cod&apos;s charm, beauty, and experiences.</p>
           <Link href="/explore">
             <Button variant="secondary" className="text-2xl">
               Build Your Itinerary
