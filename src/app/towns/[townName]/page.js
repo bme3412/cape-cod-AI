@@ -1,7 +1,7 @@
-import { getTownData } from '../../../lib/api';
+import { getTown } from '../../../lib/api';
 
 export default async function TownPage({ params }) {
-  const townData = await getTownData(params.townName);
+  const townData = await getTown(params.townName);
 
   return (
     <div className="town-page">

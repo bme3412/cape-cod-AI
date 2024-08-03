@@ -5,7 +5,6 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowRight, MapPin, Calendar, Compass, Users, FolderOpen } from 'lucide-react';
 
-
 const HeroSection = () => (
   <div className="relative h-screen">
     <Image
@@ -40,7 +39,6 @@ const TownCard = ({ name, image, description }) => (
     </div>
   </div>
 );
-
 
 const FeatureCard = ({ icon, title, description }) => (
   <div className="bg-white p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 flex flex-col items-center text-center">
@@ -153,7 +151,7 @@ export default function Home() {
         <section className="text-center bg-blue-600 text-white py-32 px-4 rounded-3xl mb-32">
           <h2 className="text-4xl font-semibold mb-6">Ready for your Cape Cod adventure?</h2>
           <p className="text-2xl mb-12 max-w-3xl mx-auto">Create your personalized itinerary today and unlock the best of Cape Cod&apos;s charm, beauty, and experiences.</p>
-          <Link href="/explore">
+          <Link href="/build-itinerary">
             <Button variant="secondary" className="text-2xl">
               Build Your Itinerary
             </Button>

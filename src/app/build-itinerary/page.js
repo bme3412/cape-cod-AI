@@ -188,7 +188,7 @@ export default function BuildItinerary() {
         </div>
         
         <div className="flex justify-center space-x-4 mb-12">
-          <Link href="/">
+          <Link href="/" passHref>
             <Button variant="secondary">Back to Home</Button>
           </Link>
           <Button variant="primary" onClick={generateItinerary} disabled={isLoading}>
@@ -213,9 +213,9 @@ export default function BuildItinerary() {
             <div className="mt-8 p-4 bg-blue-50 rounded-lg">
               <h3 className="text-xl font-bold mb-2 text-blue-800">Travel Tips</h3>
               <ul className="list-disc pl-5 space-y-2 text-gray-700">
-                <li>Don't forget to pack sunscreen and beach essentials!</li>
+                <li>Don&apos;t forget to pack sunscreen and beach essentials!</li>
                 <li>Check local event calendars for festivals or special activities during your stay.</li>
-                <li>Consider renting bikes for easy exploration of Cape Cod's scenic paths.</li>
+                <li>Consider renting bikes for easy exploration of Cape Cod&apos;s scenic paths.</li>
                 <li>Make restaurant reservations in advance, especially during peak season.</li>
               </ul>
             </div>
