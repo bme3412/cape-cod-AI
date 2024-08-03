@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import OpenAI from 'openai';
+import OpenAI from "openai";
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
@@ -11,13 +11,36 @@ export async function POST(request) {
 
     const prompt = generatePrompt(startDate, endDate, preferences, activities, accommodation);
 
-    const completion = await openai.chat.completions.create({
-      model: "gpt-3.5-turbo",
-      messages: [{ role: "user", content: prompt }],
+    const response = await openai.chat.completions.create({
+      model: "gpt-4",
+      messages: [
+        {
+          role: "user",
+          content: [
+            {
+              type: "text",
+              text: prompt
+            }
+          ]
+        },
+        {
+          role: "assistant",
+          content: [
+            {
+              type: "text",
+              text: "The itinerary will be generated based on the provided details."
+            }
+          ]
+        }
+      ],
+      temperature: 1,
       max_tokens: 1000,
+      top_p: 1,
+      frequency_penalty: 0,
+      presence_penalty: 0,
     });
 
-    const itinerary = completion.choices[0].message.content.trim();
+    const itinerary = response.choices[0].message.content.trim();
 
     return NextResponse.json({ itinerary });
   } catch (error) {
