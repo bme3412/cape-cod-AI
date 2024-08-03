@@ -130,7 +130,7 @@ export default function Home() {
             <HowItWorksStep
               icon={<ArrowRight />}
               title="Start chatting with us"
-              description="Begin by sharing your preferences or take our travel style quiz. We'll use this information to craft your perfect Cape Cod experience."
+              description="Begin by sharing your preferences or take our travel style quiz. We&apos;ll use this information to craft your perfect Cape Cod experience."
             />
             <HowItWorksStep
               icon={<MapPin />}
@@ -151,14 +151,14 @@ export default function Home() {
         </section>
 
         <section className="text-center bg-blue-600 text-white py-32 px-4 rounded-3xl mb-32">
-        <h2 className="text-5xl font-bold mb-6">Ready for your Cape Cod adventure?</h2>
-        <p className="text-2xl mb-12 max-w-3xl mx-auto">Create your personalized itinerary today and unlock the best of Cape Cod's charm, beauty, and experiences.</p>
-        <Link href="/build-itinerary">
-          <Button variant="secondary" className="text-2xl">
-            Build Your Itinerary
-          </Button>
-        </Link>
-      </section>
+          <h2 className="text-4xl font-semibold mb-6">Ready for your Cape Cod adventure?</h2>
+          <p className="text-2xl mb-12 max-w-3xl mx-auto">Create your personalized itinerary today and unlock the best of Cape Cod&apos;s charm, beauty, and experiences.</p>
+          <Link href="/explore">
+            <Button variant="secondary" className="text-2xl">
+              Build Your Itinerary
+            </Button>
+          </Link>
+        </section>
       </div>
     </div>
   );
