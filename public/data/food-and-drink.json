@@ -1,0 +1,162 @@
+[
+  {
+    "id": "lobster-pot",
+    "name": "The Lobster Pot",
+    "town": "provincetown",
+    "description": "Famous seafood restaurant with a great view of the harbor.",
+    "image": "/images/food-and-drink/lobster-pot.jpg",
+    "tags": ["seafood", "family-friendly", "waterfront"]
+  },
+  {
+    "id": "black-cat-tavern",
+    "name": "Black Cat Tavern",
+    "town": "hyannis",
+    "description": "Casual waterfront dining with a focus on fresh seafood.",
+    "image": "/images/food-and-drink/black-cat-tavern.jpg",
+    "tags": ["seafood", "bar", "waterfront"]
+  },
+  {
+    "id": "captain-parkers-pub",
+    "name": "Captain Parker's Pub",
+    "town": "west-yarmouth",
+    "description": "Known for their award-winning clam chowder and casual atmosphere.",
+    "image": "/images/food-and-drink/captain-parkers-pub.jpg",
+    "tags": ["seafood", "pub", "family-friendly"]
+  },
+  {
+    "id": "del-mar-bistro",
+    "name": "Del Mar Bistro",
+    "town": "chatham",
+    "description": "Upscale bistro offering a mix of New American and Mediterranean cuisine.",
+    "image": "/images/food-and-drink/del-mar-bistro.jpg",
+    "tags": ["fine-dining", "american", "mediterranean"]
+  },
+  {
+    "id": "matt-s-blackboard",
+    "name": "Matt's Blackboard",
+    "town": "dennis",
+    "description": "Cozy restaurant with an ever-changing menu based on local, seasonal ingredients.",
+    "image": "/images/food-and-drink/matts-blackboard.jpg",
+    "tags": ["american", "farm-to-table", "casual"]
+  },
+  {
+    "id": "cape-cod-beer",
+    "name": "Cape Cod Beer",
+    "town": "hyannis",
+    "description": "Local brewery offering tours, tastings, and a glimpse into the craft beer-making process.",
+    "image": "/images/food-and-drink/cape-cod-beer.jpg",
+    "tags": ["brewery", "tours", "local"]
+  },
+  {
+    "id": "ceraldi",
+    "name": "Ceraldi",
+    "town": "wellfleet",
+    "description": "Intimate seven-course tasting menu featuring hyper-local ingredients and innovative preparations.",
+    "image": "/images/food-and-drink/ceraldi.jpg",
+    "tags": ["fine-dining", "tasting-menu", "farm-to-table"]
+  },
+  {
+    "id": "the-pheasant",
+    "name": "The Pheasant",
+    "town": "dennis",
+    "description": "Upscale-casual restaurant in a historic building, focusing on locally sourced ingredients.",
+    "image": "/images/food-and-drink/the-pheasant.jpg",
+    "tags": ["american", "farm-to-table", "historic"]
+  },
+  {
+    "id": "hangar-b-eatery",
+    "name": "Hangar B Eatery",
+    "town": "chatham",
+    "description": "Quirky breakfast and lunch spot located in the Chatham Municipal Airport.",
+    "image": "/images/food-and-drink/hangar-b-eatery.jpg",
+    "tags": ["breakfast", "lunch", "unique"]
+  },
+  {
+    "id": "the-canteen",
+    "name": "The Canteen",
+    "town": "provincetown",
+    "description": "Casual eatery with a beachfront patio, known for their lobster rolls and creative comfort food.",
+    "image": "/images/food-and-drink/the-canteen.jpg",
+    "tags": ["seafood", "casual", "beachfront"]
+  },
+  {
+    "id": "bubulas-fine-foods",
+    "name": "Bubala's Fine Foods",
+    "town": "provincetown",
+    "description": "Long-standing restaurant offering a mix of American classics and seafood dishes.",
+    "image": "/images/food-and-drink/bubalas-fine-foods.jpg",
+    "tags": ["american", "seafood", "family-friendly"]
+  },
+  {
+    "id": "quahog-republic",
+    "name": "Quahog Republic",
+    "town": "falmouth",
+    "description": "Lively pub known for their stuffed quahogs, burgers, and local beer selection.",
+    "image": "/images/food-and-drink/quahog-republic.jpg",
+    "tags": ["pub", "seafood", "casual"]
+  },
+  {
+    "id": "pie-in-the-sky",
+    "name": "Pie in the Sky",
+    "town": "woods-hole",
+    "description": "Popular bakery and cafe known for their delicious pies, pastries, and sandwiches.",
+    "image": "/images/food-and-drink/pie-in-the-sky.jpg",
+    "tags": ["bakery", "cafe", "desserts"]
+  },
+  {
+    "id": "crisp-flatbread",
+    "name": "Crisp Flatbread",
+    "town": "osterville",
+    "description": "Modern restaurant specializing in gourmet flatbread pizzas and craft cocktails.",
+    "image": "/images/food-and-drink/crisp-flatbread.jpg",
+    "tags": ["pizza", "bar", "modern"]
+  },
+  {
+    "id": "old-yarmouth-inn",
+    "name": "Old Yarmouth Inn",
+    "town": "yarmouth-port",
+    "description": "Historic inn and restaurant dating back to 1696, offering traditional New England fare.",
+    "image": "/images/food-and-drink/old-yarmouth-inn.jpg",
+    "tags": ["historic", "american", "fine-dining"]
+  },
+  {
+    "id": "the-oyster-company",
+    "name": "The Oyster Company",
+    "town": "dennis-port",
+    "description": "Raw bar and seafood restaurant with a focus on locally farmed oysters.",
+    "image": "/images/food-and-drink/the-oyster-company.jpg",
+    "tags": ["seafood", "raw-bar", "local"]
+  },
+  {
+    "id": "embargo",
+    "name": "Embargo",
+    "town": "hyannis",
+    "description": "Upscale tapas restaurant and martini bar with a lively atmosphere.",
+    "image": "/images/food-and-drink/embargo.jpg",
+    "tags": ["tapas", "bar", "nightlife"]
+  },
+  {
+    "id": "chez-antoine",
+    "name": "Chez Antoine",
+    "town": "hyannis",
+    "description": "Authentic French bakery and cafe known for their croissants and pastries.",
+    "image": "/images/food-and-drink/chez-antoine.jpg",
+    "tags": ["bakery", "cafe", "french"]
+  },
+  {
+    "id": "pain-davignon",
+    "name": "Pain D'Avignon",
+    "town": "hyannis",
+    "description": "Artisanal bakery and cafe offering freshly baked breads, pastries, and a full restaurant menu.",
+    "image": "/images/food-and-drink/pain-davignon.jpg",
+    "tags": ["bakery", "cafe", "restaurant"]
+  },
+  {
+    "id": "the-impudent-oyster",
+    "name": "The Impudent Oyster",
+    "town": "chatham",
+    "description": "Cozy seafood restaurant known for their fresh oysters and innovative seafood dishes.",
+    "image": "/images/food-and-drink/the-impudent-oyster.jpg",
+    "tags": ["seafood", "raw-bar", "fine-dining"]
+  }
+]

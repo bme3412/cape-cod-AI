@@ -1,0 +1,63 @@
+{
+    "id": "craigville-beach",
+    "name": "Craigville Beach",
+    "town": "Barnstable",
+    "description": "A popular, expansive beach with soft sand and gentle waves, perfect for families and swimming.",
+    "image": "/images/beaches/craigville-beach.jpg",
+    "tags": ["family-friendly", "swimming", "sunbathing", "lifeguards"],
+    "coordinates": {
+      "latitude": 41.6275,
+      "longitude": -70.3267
+    },
+    "ratings": {
+      "environmental_factors": {
+        "water_quality": 85,
+        "sand_quality": 90,
+        "beach_width": 40,
+        "wave_conditions": {
+          "height": 0.5,
+          "frequency": 8
+        },
+        "water_temperature": 21
+      },
+      "facilities_and_services": {
+        "parking_availability": 0.8,
+        "restroom_facilities": 75,
+        "lifeguard_presence": 8,
+        "food_and_drink_options": {
+          "count": 3,
+          "variety": 70
+        },
+        "rental_services": 60
+      },
+      "accessibility_and_safety": {
+        "handicap_accessibility": 80,
+        "public_transportation_access": 50,
+        "safety_record": 5,
+        "beach_slope": 3
+      },
+      "recreational_opportunities": {
+        "swimming_conditions": 90,
+        "surfing_quality": 30,
+        "fishing_opportunities": 50,
+        "snorkeling_diving_spots": 40
+      },
+      "natural_beauty_and_wildlife": {
+        "scenic_value": 85,
+        "wildlife_diversity": {
+          "count": 20,
+          "variety": 60
+        },
+        "vegetation": 70
+      },
+      "crowding_and_atmosphere": {
+        "crowd_density": 0.1,
+        "noise_level": 60,
+        "family_friendliness": 90
+      },
+      "environmental_protection": {
+        "conservation_efforts": 75,
+        "cleanliness": 85
+      }
+    }
+  }

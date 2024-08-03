@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hyannis",
+    "name": "Hyannis",
+    "description": "The largest of seven villages in Barnstable, known as the 'Capital of the Cape'.",
+    "image": "/images/towns/hyannis.jpg",
+    "attractions": ["hyannis-harbor", "jfk-museum"],
+    "beaches": ["craigville-beach", "kalmus-beach"]
+  },
+  {
+    "id": "provincetown",
+    "name": "Provincetown",
+    "description": "Vibrant coastal town known for its artistic community and LGBTQ+ friendly atmosphere.",
+    "image": "/images/towns/provincetown.jpg",
+    "attractions": ["provincetown-monument", "art-galleries"],
+    "beaches": ["race-point-beach", "herring-cove-beach"]
+  },
+  {
+    "id": "falmouth",
+    "name": "Falmouth",
+    "description": "Charming town with beautiful beaches and home to Woods Hole Oceanographic Institution.",
+    "image": "/images/towns/falmouth.jpg",
+    "attractions": ["woods-hole-science-aquarium", "shining-sea-bikeway"],
+    "beaches": ["old-silver-beach", "chapoquoit-beach"]
+  },
+  {
+    "id": "chatham",
+    "name": "Chatham",
+    "description": "Picturesque town known for its lighthouse and upscale atmosphere.",
+    "image": "/images/towns/chatham.jpg",
+    "attractions": ["chatham-lighthouse", "monomoy-national-wildlife-refuge"],
+    "beaches": ["lighthouse-beach", "harding-beach"]
+  },
+  {
+    "id": "sandwich",
+    "name": "Sandwich",
+    "description": "The oldest town on Cape Cod, known for its historic charm and glassmaking history.",
+    "image": "/images/towns/sandwich.jpg",
+    "attractions": ["heritage-museums-gardens", "sandwich-glass-museum"],
+    "beaches": ["sandy-neck-beach", "east-sandwich-beach"]
+  },
+  {
+    "id": "orleans",
+    "name": "Orleans",
+    "description": "Quaint town at the elbow of Cape Cod, offering both bay and ocean beaches.",
+    "image": "/images/towns/orleans.jpg",
+    "attractions": ["french-cable-station-museum", "jonathan-young-windmill"],
+    "beaches": ["nauset-beach", "skaket-beach"]
+  },
+  {
+    "id": "wellfleet",
+    "name": "Wellfleet",
+    "description": "Known for its oysters, art galleries, and beautiful beaches within the Cape Cod National Seashore.",
+    "image": "/images/towns/wellfleet.jpg",
+    "attractions": ["wellfleet-drive-in-theatre", "wellfleet-bay-wildlife-sanctuary"],
+    "beaches": ["marconi-beach", "cahoon-hollow-beach"]
+  },
+  {
+    "id": "dennis",
+    "name": "Dennis",
+    "description": "Comprised of five distinct villages, offering a mix of bay and ocean beaches.",
+    "image": "/images/towns/dennis.jpg",
+    "attractions": ["cape-playhouse", "scargo-tower"],
+    "beaches": ["mayflower-beach", "corporation-beach"]
+  },
+  {
+    "id": "brewster",
+    "name": "Brewster",
+    "description": "Historic sea captains' town with tidal flats and freshwater ponds.",
+    "image": "/images/towns/brewster.jpg",
+    "attractions": ["brewster-historical-society-museum", "nickerson-state-park"],
+    "beaches": ["breakwater-beach", "crosby-landing-beach"]
+  },
+  {
+    "id": "harwich",
+    "name": "Harwich",
+    "description": "Charming town known for its cranberry bogs and beautiful harbors.",
+    "image": "/images/towns/harwich.jpg",
+    "attractions": ["brooks-academy-museum", "cranberry-bog-tours"],
+    "beaches": ["bank-street-beach", "red-river-beach"]
+  },
+  {
+    "id": "cotuit",
+    "name": "Cotuit",
+    "description": "A quaint village in the town of Barnstable, known for its oysters and scenic beauty.",
+    "image": "/images/towns/cotuit.jpg",
+    "attractions": ["cotuit-center-for-the-arts", "cahoon-museum-of-american-art"],
+    "beaches": ["loop-beach", "ropes-beach"]
+  },
+  {
+    "id": "osterville",
+    "name": "Osterville",
+    "description": "An upscale village in Barnstable with beautiful beaches and a charming downtown.",
+    "image": "/images/towns/osterville.jpg",
+    "attractions": ["osterville-historical-museum", "dowses-beach"],
+    "beaches": ["dowses-beach", "east-bay-beach"]
+  },
+  {
+    "id": "mashpee",
+    "name": "Mashpee",
+    "description": "Home to the Mashpee Wampanoag Tribe and known for its shopping and outdoor activities.",
+    "image": "/images/towns/mashpee.jpg",
+    "attractions": ["mashpee-commons", "south-cape-beach-state-park"],
+    "beaches": ["south-cape-beach", "mashpee-town-beach"]
+  },
+  {
+    "id": "woods-hole",
+    "name": "Woods Hole",
+    "description": "A village in Falmouth, renowned for its marine science institutions and ferry terminal to Martha's Vineyard.",
+    "image": "/images/towns/woods-hole.jpg",
+    "attractions": ["woods-hole-oceanographic-institution", "marine-biological-laboratory"],
+    "beaches": ["stoney-beach", "nobska-beach"]
+  },
+  {
+    "id": "barnstable-village",
+    "name": "Barnstable Village",
+    "description": "Historic village with a picturesque harbor and county seat of Barnstable County.",
+    "image": "/images/towns/barnstable-village.jpg",
+    "attractions": ["old-jail-museum", "sturgis-library"],
+    "beaches": ["millway-beach", "long-beach"]
+  }
+]

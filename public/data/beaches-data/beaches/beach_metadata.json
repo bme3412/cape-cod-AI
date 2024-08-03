@@ -1,0 +1,130 @@
+{
+  "beaches": [
+    {
+      "id": "craigville-beach",
+      "name": "Craigville Beach",
+      "town": "centerville",
+      "coordinates": {
+        "latitude": 41.6275,
+        "longitude": -70.3267
+      }
+    },
+    {
+      "id": "kalmus-beach",
+      "name": "Kalmus Beach",
+      "town": "hyannis",
+      "coordinates": {
+        "latitude": 41.6347,
+        "longitude": -70.2792
+      }
+    },
+    {
+      "id": "veterans-beach",
+      "name": "Veterans Beach",
+      "town": "hyannis",
+      "coordinates": {
+        "latitude": 41.6353,
+        "longitude": -70.2778
+      }
+    },
+    {
+      "id": "sandy-neck-beach",
+      "name": "Sandy Neck Beach",
+      "town": "west-barnstable",
+      "coordinates": {
+        "latitude": 41.7281,
+        "longitude": -70.3764
+      }
+    },
+    {
+      "id": "loop-beach",
+      "name": "Loop Beach",
+      "town": "cotuit",
+      "coordinates": {
+        "latitude": 41.6125,
+        "longitude": -70.4347
+      }
+    },
+    {
+      "id": "dowses-beach",
+      "name": "Dowses Beach",
+      "town": "osterville",
+      "coordinates": {
+        "latitude": 41.6233,
+        "longitude": -70.3853
+      }
+    },
+    {
+      "id": "millway-beach",
+      "name": "Millway Beach",
+      "town": "barnstable-village",
+      "coordinates": {
+        "latitude": 41.7053,
+        "longitude": -70.3008
+      }
+    },
+    {
+      "id": "race-point-beach",
+      "name": "Race Point Beach",
+      "town": "provincetown",
+      "coordinates": {
+        "latitude": 42.0678,
+        "longitude": -70.2208
+      }
+    },
+    {
+      "id": "old-silver-beach",
+      "name": "Old Silver Beach",
+      "town": "falmouth",
+      "coordinates": {
+        "latitude": 41.6450,
+        "longitude": -70.6367
+      }
+    },
+    {
+      "id": "lighthouse-beach",
+      "name": "Lighthouse Beach",
+      "town": "chatham",
+      "coordinates": {
+        "latitude": 41.6719,
+        "longitude": -69.9522
+      }
+    },
+    {
+      "id": "nauset-beach",
+      "name": "Nauset Beach",
+      "town": "orleans",
+      "coordinates": {
+        "latitude": 41.7853,
+        "longitude": -69.9428
+      }
+    },
+    {
+      "id": "marconi-beach",
+      "name": "Marconi Beach",
+      "town": "wellfleet",
+      "coordinates": {
+        "latitude": 41.8964,
+        "longitude": -69.9614
+      }
+    },
+    {
+      "id": "mayflower-beach",
+      "name": "Mayflower Beach",
+      "town": "dennis",
+      "coordinates": {
+        "latitude": 41.7478,
+        "longitude": -70.1792
+      }
+    },
+    {
+      "id": "breakwater-beach",
+      "name": "Breakwater Beach",
+      "town": "Brewster",
+      "coordinates": {
+        "latitude": 41.7614,
+        "longitude": -70.0836
+      }
+    }
+  ]
+}

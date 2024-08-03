@@ -1,0 +1,154 @@
+[
+  {
+    "id": "whale-watching-tour",
+    "name": "Whale Watching Tour",
+    "town": "provincetown",
+    "description": "Exciting tours to see whales in their natural habitat.",
+    "image": "/images/attractions/whale-watching.jpg",
+    "tags": ["outdoor", "family-friendly", "nature"]
+  },
+  {
+    "id": "jfk-museum",
+    "name": "John F. Kennedy Hyannis Museum",
+    "town": "hyannis",
+    "description": "Museum dedicated to John F. Kennedy's time spent on Cape Cod.",
+    "image": "/images/attractions/jfk-museum.jpg",
+    "tags": ["historic", "educational", "indoor"]
+  },
+  {
+    "id": "cape-cod-national-seashore",
+    "name": "Cape Cod National Seashore",
+    "town": "wellfleet",
+    "description": "40 miles of pristine sandy beach, marshes, ponds, and uplands supporting diverse species.",
+    "image": "/images/attractions/cape-cod-national-seashore.jpg",
+    "tags": ["outdoor", "nature", "family-friendly"]
+  },
+  {
+    "id": "pilgrim-monument",
+    "name": "Pilgrim Monument",
+    "town": "provincetown",
+    "description": "Commemorative tower offering panoramic views of Provincetown and the surrounding area.",
+    "image": "/images/attractions/pilgrim-monument.jpg",
+    "tags": ["historic", "scenic-views", "family-friendly"]
+  },
+  {
+    "id": "woods-hole-science-aquarium",
+    "name": "Woods Hole Science Aquarium",
+    "town": "falmouth",
+    "description": "The oldest public aquarium in the United States, featuring marine life from Northeast and Middle Atlantic waters.",
+    "image": "/images/attractions/woods-hole-aquarium.jpg",
+    "tags": ["educational", "family-friendly", "indoor"]
+  },
+  {
+    "id": "heritage-museums-gardens",
+    "name": "Heritage Museums & Gardens",
+    "town": "sandwich",
+    "description": "100 acres of gardens and nature trails with a vintage carousel and classic car museum.",
+    "image": "/images/attractions/heritage-museums-gardens.jpg",
+    "tags": ["outdoor", "family-friendly", "cultural"]
+  },
+  {
+    "id": "cape-cod-rail-trail",
+    "name": "Cape Cod Rail Trail",
+    "town": "dennis",
+    "description": "22-mile paved trail for cycling, walking, and jogging through six Cape Cod towns.",
+    "image": "/images/attractions/cape-cod-rail-trail.jpg",
+    "tags": ["outdoor", "family-friendly", "nature"]
+  },
+  {
+    "id": "edward-gorey-house",
+    "name": "Edward Gorey House",
+    "town": "yarmouth",
+    "description": "Museum dedicated to the life and works of the eccentric author and illustrator Edward Gorey.",
+    "image": "/images/attractions/edward-gorey-house.jpg",
+    "tags": ["cultural", "unique", "indoor"]
+  },
+  {
+    "id": "cape-cod-museum-of-natural-history",
+    "name": "Cape Cod Museum of Natural History",
+    "town": "brewster",
+    "description": "Nature education center with exhibits on local flora and fauna, and nature trails.",
+    "image": "/images/attractions/cc-museum-natural-history.jpg",
+    "tags": ["educational", "family-friendly", "nature"]
+  },
+  {
+    "id": "chatham-lighthouse",
+    "name": "Chatham Lighthouse",
+    "town": "chatham",
+    "description": "Historic lighthouse offering guided tours and beautiful ocean views.",
+    "image": "/images/attractions/chatham-lighthouse.jpg",
+    "tags": ["historic", "scenic-views", "family-friendly"]
+  },
+  {
+    "id": "wellfleet-drive-in-theatre",
+    "name": "Wellfleet Drive-In Theatre",
+    "town": "wellfleet",
+    "description": "One of the last drive-in theaters in the country, offering a nostalgic movie-watching experience.",
+    "image": "/images/attractions/wellfleet-drive-in.jpg",
+    "tags": ["family-friendly", "unique", "entertainment"]
+  },
+  {
+    "id": "cahoon-museum-of-american-art",
+    "name": "Cahoon Museum of American Art",
+    "town": "cotuit",
+    "description": "Museum showcasing American art from the 18th century to the present, with a focus on Cape Cod artists.",
+    "image": "/images/attractions/cahoon-museum.jpg",
+    "tags": ["cultural", "indoor", "educational"]
+  },
+  {
+    "id": "cape-cod-potato-chip-factory",
+    "name": "Cape Cod Potato Chip Factory",
+    "town": "hyannis",
+    "description": "Take a self-guided tour of the factory where the famous Cape Cod Potato Chips are made.",
+    "image": "/images/attractions/cape-cod-potato-chip-factory.jpg",
+    "tags": ["family-friendly", "unique", "food"]
+  },
+  {
+    "id": "monomoy-national-wildlife-refuge",
+    "name": "Monomoy National Wildlife Refuge",
+    "town": "chatham",
+    "description": "Wildlife refuge protecting migratory birds and gray seals, offering hiking and wildlife viewing.",
+    "image": "/images/attractions/monomoy-refuge.jpg",
+    "tags": ["nature", "outdoor", "wildlife"]
+  },
+  {
+    "id": "whydah-pirate-museum",
+    "name": "Whydah Pirate Museum",
+    "town": "west-yarmouth",
+    "description": "Interactive museum featuring artifacts from the Whydah shipwreck, the only authenticated pirate shipwreck in the world.",
+    "image": "/images/attractions/whydah-museum.jpg",
+    "tags": ["educational", "family-friendly", "unique"]
+  },
+  {
+    "id": "cape-cod-lavender-farm",
+    "name": "Cape Cod Lavender Farm",
+    "town": "harwich",
+    "description": "Beautiful lavender farm offering walking trails, a gift shop, and stunning purple fields in bloom.",
+    "image": "/images/attractions/lavender-farm.jpg",
+    "tags": ["outdoor", "nature", "unique"]
+  },
+  {
+    "id": "mashpee-commons",
+    "name": "Mashpee Commons",
+    "town": "mashpee",
+    "description": "Open-air shopping center with a variety of shops, restaurants, and entertainment options.",
+    "image": "/images/attractions/mashpee-commons.jpg",
+    "tags": ["shopping", "food", "entertainment"]
+  },
+  {
+    "id": "sandwich-glass-museum",
+    "name": "Sandwich Glass Museum",
+    "town": "sandwich",
+    "description": "Museum showcasing the town's rich history in glassmaking with live glassblowing demonstrations.",
+    "image": "/images/attractions/sandwich-glass-museum.jpg",
+    "tags": ["historic", "educational", "cultural"]
+  },
+  {
+    "id": "cape-cod-beer",
+    "name": "Cape Cod Beer",
+    "town": "hyannis",
+    "description": "Local brewery offering tours, tastings, and a glimpse into the craft beer-making process.",
+    "image": "/images/attractions/cape-cod-beer.jpg",
+    "tags": ["food-and-drink", "tours", "adult"]
+  }
+]

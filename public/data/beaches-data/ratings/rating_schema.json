@@ -1,0 +1,174 @@
+{
+    "environmental_factors": {
+      "water_quality": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      },
+      "sand_quality": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      },
+      "beach_width": {
+        "type": "number",
+        "unit": "Meters"
+      },
+      "wave_conditions": {
+        "height": {
+          "type": "number",
+          "unit": "Meters"
+        },
+        "frequency": {
+          "type": "number",
+          "unit": "Waves/Minute"
+        }
+      },
+      "water_temperature": {
+        "type": "number",
+        "unit": "Degrees Celsius"
+      }
+    },
+    "facilities_and_services": {
+      "parking_availability": {
+        "type": "number",
+        "min": 0,
+        "max": 1,
+        "unit": "Ratio"
+      },
+      "restroom_facilities": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      },
+      "lifeguard_presence": {
+        "type": "number",
+        "unit": "Hours"
+      },
+      "food_and_drink_options": {
+        "count": {
+          "type": "number",
+          "unit": "Count"
+        },
+        "variety": {
+          "type": "number",
+          "min": 0,
+          "max": 100,
+          "unit": "Index"
+        }
+      },
+      "rental_services": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      }
+    },
+    "accessibility_and_safety": {
+      "handicap_accessibility": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      },
+      "public_transportation_access": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      },
+      "safety_record": {
+        "type": "number",
+        "unit": "Incidents/Year"
+      },
+      "beach_slope": {
+        "type": "number",
+        "unit": "Degrees"
+      }
+    },
+    "recreational_opportunities": {
+      "swimming_conditions": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      },
+      "surfing_quality": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      },
+      "fishing_opportunities": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      },
+      "snorkeling_diving_spots": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      }
+    },
+    "natural_beauty_and_wildlife": {
+      "scenic_value": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      },
+      "wildlife_diversity": {
+        "count": {
+          "type": "number",
+          "unit": "Species Count"
+        },
+        "variety": {
+          "type": "number",
+          "min": 0,
+          "max": 100,
+          "unit": "Index"
+        }
+      },
+      "vegetation": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      }
+    },
+    "crowding_and_atmosphere": {
+      "crowd_density": {
+        "type": "number",
+        "unit": "Visitors/m²"
+      },
+      "noise_level": {
+        "type": "number",
+        "unit": "Decibels"
+      },
+      "family_friendliness": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      }
+    },
+    "environmental_protection": {
+      "conservation_efforts": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      },
+      "cleanliness": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "unit": "Index"
+      }
+    }
+  }

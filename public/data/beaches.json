@@ -1,0 +1,86 @@
+[
+    {
+      "id": "craigville-beach",
+      "name": "Craigville Beach",
+      "town": "centerville",
+      "description": "A popular, expansive beach with soft sand and gentle waves, perfect for families and swimming.",
+      "image": "/images/beaches/craigville-beach.jpg",
+      "tags": ["family-friendly", "swimming", "sunbathing", "lifeguards"],
+      "coordinates": {
+        "latitude": 41.6275,
+        "longitude": -70.3267
+      }
+    },
+    {
+      "id": "kalmus-beach",
+      "name": "Kalmus Beach",
+      "town": "hyannis",
+      "description": "Known for its strong winds, making it a favorite spot for windsurfing and kiteboarding.",
+      "image": "/images/beaches/kalmus-beach.jpg",
+      "tags": ["windsurfing", "kiteboarding", "swimming", "picnic-areas"],
+      "coordinates": {
+        "latitude": 41.6347,
+        "longitude": -70.2792
+      }
+    },
+    {
+      "id": "veterans-beach",
+      "name": "Veterans Beach",
+      "town": "hyannis",
+      "description": "A small, calm beach with a playground and picnic areas, ideal for families with young children.",
+      "image": "/images/beaches/veterans-beach.jpg",
+      "tags": ["family-friendly", "playground", "picnic-areas", "fishing-pier"],
+      "coordinates": {
+        "latitude": 41.6353,
+        "longitude": -70.2778
+      }
+    },
+    {
+      "id": "sandy-neck-beach",
+      "name": "Sandy Neck Beach",
+      "town": "west-barnstable",
+      "description": "A 6-mile long barrier beach with dunes, perfect for off-road vehicle enthusiasts and nature lovers.",
+      "image": "/images/beaches/sandy-neck-beach.jpg",
+      "tags": ["off-road-vehicles", "hiking", "wildlife-watching", "camping"],
+      "coordinates": {
+        "latitude": 41.7281,
+        "longitude": -70.3764
+      }
+    },
+    {
+      "id": "loop-beach",
+      "name": "Loop Beach",
+      "town": "cotuit",
+      "description": "A small, secluded beach with calm waters, ideal for those seeking a quieter beach experience.",
+      "image": "/images/beaches/loop-beach.jpg",
+      "tags": ["quiet", "swimming", "sunbathing", "scenic"],
+      "coordinates": {
+        "latitude": 41.6125,
+        "longitude": -70.4347
+      }
+    },
+    {
+      "id": "dowses-beach",
+      "name": "Dowses Beach",
+      "town": "osterville",
+      "description": "A picturesque beach with a boardwalk, offering views of Nantucket Sound and nearby islands.",
+      "image": "/images/beaches/dowses-beach.jpg",
+      "tags": ["scenic", "swimming", "fishing", "birdwatching"],
+      "coordinates": {
+        "latitude": 41.6233,
+        "longitude": -70.3853
+      }
+    },
+    {
+      "id": "millway-beach",
+      "name": "Millway Beach",
+      "town": "barnstable-village",
+      "description": "A small beach on Barnstable Harbor, known for its calm waters and beautiful sunsets.",
+      "image": "/images/beaches/millway-beach.jpg",
+      "tags": ["scenic", "kayaking", "paddleboarding", "sunset-viewing"],
+      "coordinates": {
+        "latitude": 41.7053,
+        "longitude": -70.3008
+      }
+    }
+  ]
