@@ -10,7 +10,7 @@ const NavBar = () => (
         <Link href="/towns" className="text-blue-600 text-lg font-semibold mx-4 hover:text-blue-800 transition-colors duration-300">Towns</Link>
         <Link href="/beaches" className="text-gray-600 text-lg font-semibold mx-4 hover:text-blue-600 transition-colors duration-300">Beaches</Link>
         <Link href="/things-to-do" className="text-gray-600 text-lg font-semibold mx-4 hover:text-blue-600 transition-colors duration-300">Things to Do</Link>
-        <Link href="/food-and-drink" className="text-gray-600 text-lg font-semibold mx-4 hover:text-blue-600 transition-colors duration-300">Food & Drink</Link>
+        <Link href="/food-and-drink" className="text-gray-600 text-lg font-semibold mx-4 hover:text-blue-600 transition-colors duration-300">Food &amp; Drink</Link>
       </div>
     </div>
   </nav>
@@ -88,7 +88,7 @@ const TownsPage = () => {
       <div className="max-w-7xl mx-auto px-4 py-12">
         <h1 className="text-5xl font-bold mb-8 text-center text-gray-800">Discover Cape Cod Towns</h1>
         <p className="text-xl text-gray-600 max-w-3xl mx-auto text-center mb-12">
-          Explore the unique charm and character of Cape Cod's beautiful towns. Each offers its own blend of history, culture, and coastal beauty.
+          Explore the unique charm and character of Cape Cod&apos;s beautiful towns. Each offers its own blend of history, culture, and coastal beauty.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
           {towns.map((town, index) => (
@@ -98,7 +98,7 @@ const TownsPage = () => {
       </div>
       <div className="bg-blue-600 text-white py-16">
         <div className="max-w-7xl mx-auto px-4">
-          <h2 className="text-3xl font-semibold mb-8 text-center">Explore Cape Cod's Towns</h2>
+          <h2 className="text-3xl font-semibold mb-8 text-center">Explore Cape Cod&apos;s Towns</h2>
           <div className="flex flex-wrap justify-center mb-8">
             <FeatureIcon icon={MapPin} text="15 Unique Towns" />
             <FeatureIcon icon={Anchor} text="Coastal Beauty" />

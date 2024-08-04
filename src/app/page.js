@@ -10,7 +10,7 @@ const NavBar = () => (
         <Link href="/towns" className="text-white text-base font-medium mx-4 hover:text-blue-200 transition-colors duration-300">Towns</Link>
         <Link href="/beaches" className="text-white text-base font-medium mx-4 hover:text-blue-200 transition-colors duration-300">Beaches</Link>
         <Link href="/things-to-do" className="text-white text-base font-medium mx-4 hover:text-blue-200 transition-colors duration-300">Things to Do</Link>
-        <Link href="/food-and-drink" className="text-white text-base font-medium mx-4 hover:text-blue-200 transition-colors duration-300">Food & Drink</Link>
+        <Link href="/food-and-drink" className="text-white text-base font-medium mx-4 hover:text-blue-200 transition-colors duration-300">Food &amp; Drink</Link>
       </div>
     </div>
   </nav>
@@ -42,7 +42,6 @@ const HeroSection = () => (
   </div>
 );
 
-
 const TownCard = ({ name, image, description }) => (
   <div className="bg-white rounded-lg overflow-hidden shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-105 transform">
     <Image src={image} alt={name} width={800} height={600} className="w-full h-64 object-cover" />
@@ -64,7 +63,6 @@ const FeatureCard = ({ icon, title, description }) => (
     <p className="text-gray-600 text-lg">{description}</p>
   </div>
 );
-
 
 const HowItWorksStep = ({ title, description, icon }) => (
   <div className="flex items-start mb-16 transition-all duration-500 hover:translate-x-2 transform">
@@ -146,7 +144,7 @@ export default function Home() {
             <HowItWorksStep
               icon={<ArrowRight />}
               title="Start chatting with us"
-              description="Begin by sharing your preferences or take our travel style quiz. We'll use this information to craft your perfect Cape Cod experience."
+              description="Begin by sharing your preferences or take our travel style quiz. We&apos;ll use this information to craft your perfect Cape Cod experience."
             />
             <HowItWorksStep
               icon={<MapPin />}
@@ -161,14 +159,14 @@ export default function Home() {
             <HowItWorksStep
               icon={<FolderOpen />}
               title="Organize everything in one place"
-              description="Manage all aspects of your adventure—from flights and accommodations to activities and dining—in your comprehensive Cape Cod Travel portfolio."
+              description="Manage all aspects of your adventure&mdash;from flights and accommodations to activities and dining&mdash;in your comprehensive Cape Cod Travel portfolio."
             />
           </div>
         </section>
 
         <section className="text-center bg-gradient-to-r from-blue-600 to-blue-700 text-white py-32 px-4 rounded-3xl mb-32 shadow-2xl">
           <h2 className="text-4xl font-semibold mb-6">Ready for your Cape Cod adventure?</h2>
-          <p className="text-2xl mb-12 max-w-3xl mx-auto">Create your personalized itinerary today and unlock the best of Cape Cod's charm, beauty, and experiences.</p>
+          <p className="text-2xl mb-12 max-w-3xl mx-auto">Create your personalized itinerary today and unlock the best of Cape Cod&apos;s charm, beauty, and experiences.</p>
           <Link href="/build-itinerary">
             <Button variant="secondary" className="text-2xl hover:scale-105 transition-transform duration-300">
               Build Your Itinerary
