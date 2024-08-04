@@ -2,7 +2,7 @@
 
 import React, { useState, useMemo, useEffect } from 'react';
 import { Search, Filter, X } from 'lucide-react';
-
+import Image from 'next/image';
 
 const AsideItem = ({ title, children }) => (
   <div className="mb-6">
@@ -13,7 +13,7 @@ const AsideItem = ({ title, children }) => (
 
 const ImageCard = ({ src, alt, title, category }) => (
   <div className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-all duration-300">
-    <img src={src} alt={alt} className="w-full h-48 object-cover" />
+    <Image src={src} alt={alt} width={400} height={300} className="w-full h-48 object-cover" />
     <div className="p-4">
       <h3 className="text-lg font-semibold">{title}</h3>
       <p className="text-sm text-gray-500">{category}</p>

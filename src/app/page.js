@@ -65,6 +65,7 @@ const FeatureCard = ({ icon, title, description }) => (
   </div>
 );
 
+
 const HowItWorksStep = ({ title, description, icon }) => (
   <div className="flex items-start mb-16 transition-all duration-500 hover:translate-x-2 transform">
     <div className="text-blue-600 mr-8 flex-shrink-0">

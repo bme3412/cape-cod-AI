@@ -88,7 +88,7 @@ const BeachesPage = () => {
       <div className="max-w-7xl mx-auto px-4 py-12">
         <h1 className="text-4xl font-bold mb-6 text-center text-gray-800">Discover Cape Cod Beaches</h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto text-center mb-12">
-          Explore the pristine shores and crystal-clear waters of Cape Cod's renowned beaches. From family-friendly coves to surfer's paradises, there's a perfect beach for every visitor.
+          Explore the pristine shores and crystal-clear waters of Cape Cod&apos;s renowned beaches. From family-friendly coves to surfer&apos;s paradises, there&apos;s a perfect beach for every visitor.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {beaches.map((beach, index) => (
@@ -98,7 +98,7 @@ const BeachesPage = () => {
       </div>
       <div className="bg-blue-600 text-white py-12">
         <div className="max-w-7xl mx-auto px-4">
-          <h2 className="text-2xl font-semibold mb-6 text-center">Experience Cape Cod's Beaches</h2>
+          <h2 className="text-2xl font-semibold mb-6 text-center">Experience Cape Cod&apos;s Beaches</h2>
           <div className="flex flex-wrap justify-center mb-8">
             <FeatureIcon icon={Waves} text="40+ Miles of Beaches" />
             <FeatureIcon icon={Sun} text="Stunning Sunsets" />
