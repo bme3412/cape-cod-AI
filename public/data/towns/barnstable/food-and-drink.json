@@ -1,0 +1,118 @@
+{
+    "town": "Barnstable",
+    "state": "Massachusetts",
+    "food_and_drink": [
+      {
+        "name": "Dolphin Restaurant",
+        "type": "Seafood",
+        "cuisine": "American",
+        "price_range": "$$$",
+        "address": "3250 Main St, Barnstable, MA 02630",
+        "coordinates": {
+          "latitude": 41.7001,
+          "longitude": -70.3003
+        },
+        "notable_dishes": ["Lobster roll", "Clam chowder"],
+        "atmosphere": "Casual elegant",
+        "outdoor_seating": true
+      },
+      {
+        "name": "Naked Oyster Bistro & Raw Bar",
+        "type": "Seafood",
+        "cuisine": "Contemporary American",
+        "price_range": "$$$",
+        "address": "410 Main St, Hyannis, MA 02601",
+        "coordinates": {
+          "latitude": 41.6520,
+          "longitude": -70.2820
+        },
+        "notable_dishes": ["Fresh oysters", "Seafood paella"],
+        "atmosphere": "Upscale",
+        "outdoor_seating": false
+      },
+      {
+        "name": "Barnstable Restaurant and Tavern",
+        "type": "Pub",
+        "cuisine": "American",
+        "price_range": "$$",
+        "address": "3176 Main St, Barnstable, MA 02630",
+        "coordinates": {
+          "latitude": 41.7004,
+          "longitude": -70.3013
+        },
+        "notable_dishes": ["Fish and chips", "Shepherd's pie"],
+        "atmosphere": "Cozy, historic",
+        "outdoor_seating": true
+      },
+      {
+        "name": "The Daily Paper",
+        "type": "Cafe",
+        "cuisine": "Breakfast, Brunch",
+        "price_range": "$$",
+        "address": "546 Main St, Hyannis, MA 02601",
+        "coordinates": {
+          "latitude": 41.6528,
+          "longitude": -70.2800
+        },
+        "notable_dishes": ["Eggs Benedict", "Pancakes"],
+        "atmosphere": "Casual, family-friendly",
+        "outdoor_seating": false
+      },
+      {
+        "name": "Spoon and Seed",
+        "type": "Farm-to-table",
+        "cuisine": "American",
+        "price_range": "$$",
+        "address": "12 Thornton Dr, Hyannis, MA 02601",
+        "coordinates": {
+          "latitude": 41.6617,
+          "longitude": -70.2955
+        },
+        "notable_dishes": ["Farm fresh eggs", "Homemade bread"],
+        "atmosphere": "Rustic, charming",
+        "outdoor_seating": true
+      },
+      {
+        "name": "Osterville Cheese & Sandwich Shop",
+        "type": "Deli",
+        "cuisine": "Sandwiches",
+        "price_range": "$",
+        "address": "5 Wianno Ave, Osterville, MA 02655",
+        "coordinates": {
+          "latitude": 41.6293,
+          "longitude": -70.3851
+        },
+        "notable_dishes": ["Custom sandwiches", "Homemade soups"],
+        "atmosphere": "Quaint, local favorite",
+        "outdoor_seating": false
+      },
+      {
+        "name": "Black Cat Tavern",
+        "type": "Seafood",
+        "cuisine": "American",
+        "price_range": "$$",
+        "address": "165 Ocean St, Hyannis, MA 02601",
+        "coordinates": {
+          "latitude": 41.6532,
+          "longitude": -70.2721
+        },
+        "notable_dishes": ["Stuffed quahogs", "Seafood platter"],
+        "atmosphere": "Casual, waterfront views",
+        "outdoor_seating": true
+      },
+      {
+        "name": "Pizza Barbone",
+        "type": "Pizzeria",
+        "cuisine": "Italian",
+        "price_range": "$$",
+        "address": "390 Main St, Hyannis, MA 02601",
+        "coordinates": {
+          "latitude": 41.6520,
+          "longitude": -70.2826
+        },
+        "notable_dishes": ["Wood-fired pizzas", "Homemade gelato"],
+        "atmosphere": "Modern, family-friendly",
+        "outdoor_seating": true
+      }
+    ]
+  }

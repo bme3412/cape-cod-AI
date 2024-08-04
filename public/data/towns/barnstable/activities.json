@@ -1,0 +1,127 @@
+{
+    "town": "Barnstable",
+    "state": "Massachusetts",
+    "season": "Summer",
+    "activities": [
+      {
+        "name": "Cape Cod Maritime Museum",
+        "type": "Museum",
+        "description": "Explore maritime history and enjoy interactive exhibits",
+        "address": "135 South St, Hyannis, MA 02601",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://www.capecodmaritimemuseum.org"
+      },
+      {
+        "name": "Hyannis Whale Watcher Cruises",
+        "type": "Nature Tour",
+        "description": "Embark on a thrilling whale watching adventure in the Atlantic",
+        "address": "269 Millway, Barnstable, MA 02630",
+        "price_range": "$$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.whales.net"
+      },
+      {
+        "name": "Cape Cod Melody Tent",
+        "type": "Entertainment",
+        "description": "Enjoy live music and performances under a circular tent",
+        "address": "21 W Main St, Hyannis, MA 02601",
+        "price_range": "$$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.melodytent.org"
+      },
+      {
+        "name": "Cape Cod Beer Brewery Tour",
+        "type": "Food & Drink",
+        "description": "Tour the brewery and sample local craft beers",
+        "address": "1336 Phinney's Ln, Hyannis, MA 02601",
+        "price_range": "$$",
+        "family_friendly": false,
+        "indoor": true,
+        "website": "https://www.capecodbeer.com"
+      },
+      {
+        "name": "Barnstable Harbor Eco-Tours",
+        "type": "Nature Tour",
+        "description": "Explore the harbor's ecosystem and wildlife on a guided boat tour",
+        "address": "230 Ocean St, Hyannis, MA 02601",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.barnstableecotours.com"
+      },
+      {
+        "name": "John F. Kennedy Hyannis Museum",
+        "type": "Museum",
+        "description": "Learn about JFK's connection to Cape Cod and his presidency",
+        "address": "397 Main St, Hyannis, MA 02601",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://www.jfkhyannismuseum.org"
+      },
+      {
+        "name": "Cape Cod Central Railroad",
+        "type": "Scenic Tour",
+        "description": "Take a scenic train ride through Cape Cod's beautiful landscapes",
+        "address": "252 Main St, Hyannis, MA 02601",
+        "price_range": "$$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.capetrain.com"
+      },
+      {
+        "name": "Barnstable Village Cultural District",
+        "type": "Cultural Experience",
+        "description": "Explore historic buildings, art galleries, and local shops",
+        "address": "3313 Main St, Barnstable, MA 02630",
+        "price_range": "$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.barnstablevillage.org"
+      },
+      {
+        "name": "Cape Cod Kayak",
+        "type": "Outdoor Recreation",
+        "description": "Rent kayaks and paddle through scenic waterways",
+        "address": "33 Old Shore Rd, Pocasset, MA 02559",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.capecodkayak.com"
+      },
+      {
+        "name": "Cape Cod Airfield Scenic Flights",
+        "type": "Adventure",
+        "description": "Take a scenic flight over Cape Cod for breathtaking views",
+        "address": "1000 Race Ln, Marstons Mills, MA 02648",
+        "price_range": "$$$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.capecodairfield.com"
+      },
+      {
+        "name": "Barnstable Comedy Club",
+        "type": "Entertainment",
+        "description": "Enjoy local theater productions in a historic venue",
+        "address": "3171 Main St, Barnstable, MA 02630",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://www.barnstablecomedyclub.org"
+      },
+      {
+        "name": "Hyannis Art Shanties",
+        "type": "Shopping",
+        "description": "Browse and purchase local art in charming seaside shanties",
+        "address": "180 Ocean St, Hyannis, MA 02601",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.hyannisartshanties.com"
+      }
+    ]
+  }

@@ -1,0 +1,106 @@
+{
+    "name": "Barnstable",
+    "state": "Massachusetts",
+    "county": "Barnstable",
+    "region": "Cape Cod",
+    "population": 44932,
+    "area_sq_km": 505.1,
+    "time_zone": "Eastern Time Zone",
+    "website": "https://www.townofbarnstable.us",
+    "description": "Barnstable is the largest community on Cape Cod, comprising seven villages each with its own unique character. Known for its beautiful beaches, historic sites, and outdoor activities.",
+    "coordinates": {
+      "latitude": 41.7003,
+      "longitude": -70.3000
+    },
+    "villages": [
+      "Hyannis",
+      "Centerville",
+      "Osterville",
+      "Marstons Mills",
+      "Cotuit",
+      "West Barnstable",
+      "Barnstable Village"
+    ],
+    "transportation": {
+      "airports": [
+        {
+          "name": "Barnstable Municipal Airport",
+          "code": "HYA",
+          "description": "Serves Cape Cod with commercial and private flights"
+        }
+      ],
+      "bus_services": [
+        {
+          "name": "Cape Cod Regional Transit Authority (CCRTA)",
+          "website": "https://www.capecodrta.org",
+          "description": "Provides public bus service throughout Barnstable and Cape Cod"
+        }
+      ],
+      "train": {
+        "name": "CapeFLYER",
+        "website": "https://capeflyer.com",
+        "description": "Seasonal train service from Boston to Hyannis (Memorial Day to Labor Day)"
+      },
+      "ferry_services": [
+        {
+          "name": "Hy-Line Cruises",
+          "website": "https://www.hylinecruises.com",
+          "description": "Offers ferry services to Nantucket and Martha's Vineyard from Hyannis Harbor"
+        },
+        {
+          "name": "Steamship Authority",
+          "website": "https://www.steamshipauthority.com",
+          "description": "Provides year-round ferry service to Martha's Vineyard and Nantucket"
+        }
+      ],
+      "taxi_services": [
+        "Town Taxi of Cape Cod",
+        "Hyannis Taxi"
+      ],
+      "ride_sharing": [
+        "Uber",
+        "Lyft"
+      ],
+      "bike_rentals": [
+        {
+          "name": "Bike Zone",
+          "location": "Hyannis",
+          "website": "https://www.bikezonecapecod.com"
+        }
+      ]
+    },
+    "tourist_information": {
+      "visitor_center": {
+        "name": "Hyannis Information Center",
+        "address": "367 Main St, Hyannis, MA 02601",
+        "phone": "+1 (508) 790-2000"
+      },
+      "best_time_to_visit": "Late spring to early fall (May to September)",
+      "popular_events": [
+        {
+          "name": "Barnstable County Fair",
+          "month": "July",
+          "description": "Annual agricultural fair with rides, food, and entertainment"
+        },
+        {
+          "name": "Hyannis Summer Arts and Craft Festival",
+          "month": "June",
+          "description": "Outdoor festival showcasing local artisans and craftspeople"
+        }
+      ]
+    },
+    "emergency_services": {
+      "police": "911 or +1 (508) 775-0387",
+      "fire": "911",
+      "hospital": {
+        "name": "Cape Cod Hospital",
+        "address": "27 Park St, Hyannis, MA 02601",
+        "phone": "+1 (508) 771-1800"
+      }
+    },
+    "climate": {
+      "summer_avg_high_celsius": 26,
+      "winter_avg_low_celsius": -2,
+      "annual_rainfall_mm": 1092
+    }
+  }

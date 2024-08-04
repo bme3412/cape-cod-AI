@@ -1,0 +1,148 @@
+{
+    "name": "Chatham",
+    "description": "Chatham is a charming town on the elbow of Cape Cod, Massachusetts, renowned for its stunning beaches, rich maritime history, and vibrant local culture. With its picturesque lighthouses, quaint downtown area, and abundance of outdoor activities, Chatham offers a quintessential Cape Cod experience for visitors of all ages.",
+    "attractions": [
+      {
+        "name": "Chatham Lighthouse Beach",
+        "type": "beach",
+        "description": "A scenic beach with a historic lighthouse, perfect for sunbathing, beachcombing, and seal watching. The beach offers breathtaking views of the Atlantic Ocean and is known for its strong currents, making it popular among surfers.",
+        "address": "37 Main St, Chatham, MA 02633",
+        "opening_hours": "6:00 AM - 10:00 PM (Beach); Lighthouse tours available seasonally"
+      },
+      {
+        "name": "Atwood House Museum",
+        "type": "historical site",
+        "description": "A museum showcasing the rich history of Chatham through fascinating exhibits and artifacts. The museum includes an 18th-century house, art gallery, and extensive archives of local history.",
+        "address": "347 Stage Harbor Rd, Chatham, MA 02633",
+        "opening_hours": "Tuesday-Saturday: 10:00 AM - 4:00 PM (June-October)"
+      },
+      {
+        "name": "Chatham Fish Pier",
+        "type": "harbor",
+        "description": "A bustling pier where you can watch the local fishing fleet unload their daily catch. It's also a great spot for seal watching and enjoying fresh seafood at the adjacent market.",
+        "address": "45 Barcliff Ave Ext, Chatham, MA 02633",
+        "opening_hours": "24 hours"
+      },
+      {
+        "name": "Monomoy National Wildlife Refuge",
+        "type": "nature reserve",
+        "description": "A protected area offering hiking trails, birdwatching opportunities, and stunning coastal views. The refuge is home to diverse wildlife, including seals and numerous bird species.",
+        "address": "30 Wikis Way, Chatham, MA 02633",
+        "opening_hours": "Sunrise to Sunset"
+      },
+      {
+        "name": "Chatham Marconi Maritime Center",
+        "type": "museum",
+        "description": "A museum dedicated to the history of wireless communication, featuring interactive exhibits and educational programs about maritime radio technology.",
+        "address": "847 Orleans Rd, North Chatham, MA 02650",
+        "opening_hours": "Thursday-Saturday: 10:30 AM - 4:30 PM (June-October)"
+      }
+    ],
+    "restaurants": [
+      {
+        "name": "Impudent Oyster",
+        "type": "seafood",
+        "description": "A popular seafood restaurant known for its fresh and innovative dishes, including locally sourced oysters, clams, and fish. The cozy, historic setting adds to its charm.",
+        "address": "15 Chatham Bars Ave, Chatham, MA 02633",
+        "opening_hours": "Lunch: 11:30 AM - 2:30 PM, Dinner: 5:00 PM - 9:00 PM"
+      },
+      {
+        "name": "Chatham Village Cafe & Bakery",
+        "type": "bakery",
+        "description": "A delightful bakery offering a variety of freshly baked goods, gourmet coffee, and light lunch options. Known for their delicious pastries and friendly service.",
+        "address": "69 Crowell Rd, Chatham, MA 02633",
+        "opening_hours": "Monday-Saturday: 6:00 AM - 3:00 PM, Sunday: 6:00 AM - 1:00 PM"
+      },
+      {
+        "name": "The Chatham Squire",
+        "type": "American",
+        "description": "A local institution serving classic New England fare in a casual, pub-like atmosphere. Popular among locals and tourists alike for its seafood, burgers, and lively bar scene.",
+        "address": "487 Main St, Chatham, MA 02633",
+        "opening_hours": "11:30 AM - 1:00 AM"
+      },
+      {
+        "name": "Bluefins Sushi & Sake Bar",
+        "type": "Japanese",
+        "description": "An upscale sushi restaurant offering fresh, creative rolls and an extensive sake list. The modern decor and attentive service make it perfect for a special night out.",
+        "address": "513 Main St, Chatham, MA 02633",
+        "opening_hours": "Monday-Saturday: 4:30 PM - 9:30 PM"
+      }
+    ],
+    "accommodations": [
+      {
+        "name": "Chatham Bars Inn",
+        "type": "resort",
+        "description": "A luxurious oceanfront resort offering stunning ocean views, elegant rooms, top-notch amenities, and a private beach. Features multiple dining options, a spa, and various recreational activities.",
+        "address": "297 Shore Rd, Chatham, MA 02633"
+      },
+      {
+        "name": "The Old Harbor Inn",
+        "type": "bed and breakfast",
+        "description": "A cozy bed and breakfast with charming rooms and exceptional hospitality. Located in the heart of Chatham, it offers easy access to shops, restaurants, and beaches.",
+        "address": "22 Old Harbor Rd, Chatham, MA 02633"
+      },
+      {
+        "name": "Chatham Tides Waterfront Lodging",
+        "type": "motel",
+        "description": "A family-friendly waterfront motel offering comfortable rooms with kitchenettes, a private beach, and beautiful views of Pleasant Bay.",
+        "address": "97 Old Harbor Rd, North Chatham, MA 02650"
+      },
+      {
+        "name": "Queen Anne Inn",
+        "type": "inn",
+        "description": "A historic inn featuring Victorian-style rooms, beautifully landscaped gardens, and a convenient location near Chatham's main attractions.",
+        "address": "70 Queen Anne Rd, Chatham, MA 02633"
+      }
+    ],
+    "activities": [
+      {
+        "name": "Seal Watching",
+        "type": "tour",
+        "description": "Enjoy a boat tour to see seals in their natural habitat around Chatham and Monomoy Island. Learn about local marine life from knowledgeable guides.",
+        "provider": "Monomoy Island Excursions",
+        "address": "702 Main St, Chatham, MA 02633"
+      },
+      {
+        "name": "Fishing",
+        "type": "water sport",
+        "description": "Experience deep-sea fishing with local charters, perfect for anglers of all levels. Target species include striped bass, bluefish, and tuna.",
+        "provider": "Chatham Sport Fishing",
+        "address": "39 Orleans Rd, Chatham, MA 02633"
+      },
+      {
+        "name": "Kayaking",
+        "type": "water sport",
+        "description": "Explore Chatham's diverse waterways, from calm harbors to the open ocean. Rentals and guided tours available for all skill levels.",
+        "provider": "Kayak Chatham",
+        "address": "3566 Main St, Chatham, MA 02633"
+      },
+      {
+        "name": "Biking",
+        "type": "outdoor activity",
+        "description": "Cycle through scenic Chatham and the surrounding areas on the Old Colony Rail Trail. Bike rentals available in town.",
+        "provider": "Chatham Cycle",
+        "address": "1861 Main St, Chatham, MA 02633"
+      }
+    ],
+    "events": [
+      {
+        "name": "Chatham Festival of the Arts",
+        "type": "art festival",
+        "description": "Annual outdoor art festival featuring works by local and regional artists. Held in mid-July on the grounds of the Monomoy Regional Middle School.",
+        "location": "425 Crowell Rd, Chatham, MA 02633"
+      },
+      {
+        "name": "Chatham Shark Week",
+        "type": "educational event",
+        "description": "A week-long celebration of sharks, featuring educational programs, beach cleanups, and family-friendly activities. Typically held in July.",
+        "location": "Various locations throughout Chatham"
+      }
+    ],
+    "filters": {
+      "attraction_types": ["beach", "historical site", "harbor", "nature reserve", "museum"],
+      "restaurant_types": ["seafood", "bakery", "American", "Japanese"],
+      "accommodation_types": ["resort", "bed and breakfast", "motel", "inn"],
+      "activity_types": ["tour", "water sport", "outdoor activity"],
+      "event_types": ["art festival", "educational event"]
+    }
+  }
