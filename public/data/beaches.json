@@ -1,22 +1,31 @@
 [
+  {
+    "id": "dowses-beach",
+    "name": "Dowses Beach",
+    "town": "osterville",
+    "description": "A popular, expansive beach with soft sand and gentle waves, perfect for families and swimming.",
+    "images": [
+      "/images/beaches/dowses-beach/dowses-beach_1.png",
+      "/images/beaches/dowses-beach/dowses-beach_2.png",
+      "/images/beaches/dowses-beach/dowses-beach_3.png",
+      "/images/beaches/dowses-beach/dowses-beach_4.png",
+      "/images/beaches/dowses-beach/dowses-beach_5.png",
+      "/images/beaches/dowses-beach/dowses-beach_6.png",
+      "/images/beaches/dowses-beach/dowses-beach_7.png",
+      "/images/beaches/dowses-beach/dowses-beach_sign.png"
+    ],
+    "tags": ["family-friendly", "swimming", "sunbathing", "lifeguards"],
+    "coordinates": {
+      "latitude": 41.6275,
+      "longitude": -70.3267
+    }
+  },
     {
-      "id": "craigville-beach",
-      "name": "Craigville Beach",
-      "town": "centerville",
-      "description": "A popular, expansive beach with soft sand and gentle waves, perfect for families and swimming.",
-      "image": "/images/beaches/craigville-beach.jpg",
-      "tags": ["family-friendly", "swimming", "sunbathing", "lifeguards"],
-      "coordinates": {
-        "latitude": 41.6275,
-        "longitude": -70.3267
-      }
-    },
-    {
-      "id": "kalmus-beach",
-      "name": "Kalmus Beach",
-      "town": "hyannis",
+      "id": "oregon-beach",
+      "name": "Oregon Beach",
+      "town": "cotuit",
       "description": "Known for its strong winds, making it a favorite spot for windsurfing and kiteboarding.",
-      "image": "/images/beaches/kalmus-beach.jpg",
+      "image": "/images/beaches/oregon-beach_1.jpg",
       "tags": ["windsurfing", "kiteboarding", "swimming", "picnic-areas"],
       "coordinates": {
         "latitude": 41.6347,
@@ -59,18 +68,7 @@
         "longitude": -70.4347
       }
     },
-    {
-      "id": "dowses-beach",
-      "name": "Dowses Beach",
-      "town": "osterville",
-      "description": "A picturesque beach with a boardwalk, offering views of Nantucket Sound and nearby islands.",
-      "image": "/images/beaches/dowses-beach.jpg",
-      "tags": ["scenic", "swimming", "fishing", "birdwatching"],
-      "coordinates": {
-        "latitude": 41.6233,
-        "longitude": -70.3853
-      }
-    },
+    
     {
       "id": "millway-beach",
       "name": "Millway Beach",
