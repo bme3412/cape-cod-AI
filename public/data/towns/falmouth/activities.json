@@ -1,0 +1,147 @@
+{
+    "town": "Falmouth",
+    "state": "Massachusetts",
+    "season": "Summer",
+    "activities": [
+      {
+        "name": "Woods Hole Science Aquarium",
+        "type": "Aquarium",
+        "description": "Explore marine life and learn about ocean science",
+        "address": "166 Water St, Woods Hole, MA 02543",
+        "price_range": "$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://aquarium.nefsc.noaa.gov",
+        "coordinates": {
+          "latitude": 41.5248,
+          "longitude": -70.6714
+        }
+      },
+      {
+        "name": "Falmouth Heights Beach",
+        "type": "Beach",
+        "description": "Enjoy swimming and sunbathing at this popular beach",
+        "address": "Falmouth Heights Rd, Falmouth, MA 02540",
+        "price_range": "$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.falmouthma.gov/beaches",
+        "coordinates": {
+          "latitude": 41.5403,
+          "longitude": -70.5967
+        }
+      },
+      {
+        "name": "Shining Sea Bikeway",
+        "type": "Outdoor Recreation",
+        "description": "Bike along a scenic 10.7-mile trail from North Falmouth to Woods Hole",
+        "address": "County Rd, North Falmouth, MA 02556",
+        "price_range": "Free",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.falmouthma.gov/shining-sea-bikeway",
+        "coordinates": {
+          "latitude": 41.6408,
+          "longitude": -70.6211
+        }
+      },
+      {
+        "name": "Falmouth Museums on the Green",
+        "type": "Museum",
+        "description": "Explore local history in restored 18th-century houses",
+        "address": "55 Palmer Ave, Falmouth, MA 02540",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://museumsonthegreen.org",
+        "coordinates": {
+          "latitude": 41.5521,
+          "longitude": -70.6150
+        }
+      },
+      {
+        "name": "Nobska Lighthouse",
+        "type": "Historic Site",
+        "description": "Visit a historic lighthouse with panoramic ocean views",
+        "address": "233 Nobska Rd, Woods Hole, MA 02543",
+        "price_range": "Free",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://friendsofnobska.org",
+        "coordinates": {
+          "latitude": 41.5153,
+          "longitude": -70.6572
+        }
+      },
+      {
+        "name": "Falmouth Harbor Boat Tour",
+        "type": "Scenic Tour",
+        "description": "Take a guided boat tour of Falmouth Harbor",
+        "address": "278 Scranton Ave, Falmouth, MA 02540",
+        "price_range": "$$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://example-falmouth-harbor-tours.com",
+        "coordinates": {
+          "latitude": 41.5512,
+          "longitude": -70.6078
+        }
+      },
+      {
+        "name": "Highfield Hall & Gardens",
+        "type": "Cultural Experience",
+        "description": "Tour a restored Victorian mansion and enjoy beautiful gardens",
+        "address": "56 Highfield Dr, Falmouth, MA 02540",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://highfieldhallandgardens.org",
+        "coordinates": {
+          "latitude": 41.5528,
+          "longitude": -70.6194
+        }
+      },
+      {
+        "name": "Falmouth Farmers Market",
+        "type": "Shopping",
+        "description": "Shop for local produce and artisanal goods",
+        "address": "300 Main St, Falmouth, MA 02540",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://falmouthfarmersmarket.org",
+        "coordinates": {
+          "latitude": 41.5518,
+          "longitude": -70.6167
+        }
+      },
+      {
+        "name": "Cape Cod Winery",
+        "type": "Food & Drink",
+        "description": "Sample local wines and enjoy vineyard views",
+        "address": "4 Oxbow Rd, East Falmouth, MA 02536",
+        "price_range": "$$",
+        "family_friendly": false,
+        "indoor": false,
+        "website": "https://capecodwinery.com",
+        "coordinates": {
+          "latitude": 41.5789,
+          "longitude": -70.5456
+        }
+      },
+      {
+        "name": "Falmouth Arts Center",
+        "type": "Art Gallery",
+        "description": "View exhibitions by local artists and take art classes",
+        "address": "137 Gifford St, Falmouth, MA 02540",
+        "price_range": "$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://falmouthart.org",
+        "coordinates": {
+          "latitude": 41.5509,
+          "longitude": -70.6199
+        }
+      }
+    ]
+  }

@@ -1,0 +1,79 @@
+[
+    {
+        "id": "lighthouse-beach",
+        "name": "Lighthouse Beach",
+        "town": "Chatham",
+        "description": "A expansive beach near Chatham Lighthouse, known for its beautiful views and strong currents. Popular for walking and seal watching.",
+        "image": "/images/beaches/lighthouse-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6721,
+            "longitude": -69.9516
+        }
+    },
+    {
+        "id": "harding-beach",
+        "name": "Harding's Beach",
+        "town": "Chatham",
+        "description": "A family-friendly beach with calm waters, perfect for swimming and kayaking. Features amenities like parking and restrooms.",
+        "image": "/images/beaches/harding-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6667,
+            "longitude": -69.9833
+        }
+    },
+    {
+        "id": "ridgevale-beach",
+        "name": "Ridgevale Beach",
+        "town": "Chatham",
+        "description": "A picturesque beach with warm, shallow waters, ideal for families with young children. Great for windsurfing and kayaking.",
+        "image": "/images/beaches/ridgevale-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6761,
+            "longitude": -69.9978
+        }
+    },
+    {
+        "id": "cockle-cove-beach",
+        "name": "Cockle Cove Beach",
+        "town": "Chatham",
+        "description": "A quieter beach with a mix of sandy and rocky areas. Popular for beachcombing and enjoying serene views of Nantucket Sound.",
+        "image": "/images/beaches/cockle-cove-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6647,
+            "longitude": -69.9936
+        }
+    },
+    {
+        "id": "hardings-beach",
+        "name": "Hardings Beach",
+        "town": "Chatham",
+        "description": "A long, sandy beach with gentle waves, perfect for swimming and sunbathing. Offers beautiful sunset views over Nantucket Sound.",
+        "image": "/images/beaches/hardings-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6669,
+            "longitude": -69.9842
+        }
+    },
+    {
+        "id": "forest-beach",
+        "name": "Forest Beach",
+        "town": "Chatham",
+        "description": "A small, secluded beach surrounded by natural beauty. Ideal for those seeking a peaceful retreat and nature observation.",
+        "image": "/images/beaches/forest-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6853,
+            "longitude": -69.9928
+        }
+    },
+    {
+        "id": "pleasant-street-beach",
+        "name": "Pleasant Street Beach",
+        "town": "Chatham",
+        "description": "A charming neighborhood beach with calm waters, perfect for a quiet day by the sea. Limited parking makes it a local favorite.",
+        "image": "/images/beaches/pleasant-street-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6728,
+            "longitude": -69.9561
+        }
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "id": "old-silver-beach",
+        "name": "Old Silver Beach",
+        "town": "Falmouth",
+        "description": "A popular beach with warm, shallow waters and stunning views of Buzzards Bay, perfect for families and swimming.",
+        "image": "/images/beaches/old-silver-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6323,
+            "longitude": -70.6434
+        }
+    },
+    {
+        "id": "falmouth-heights-beach",
+        "name": "Falmouth Heights Beach",
+        "town": "Falmouth",
+        "description": "A lively beach with soft sand and gentle waves, offering beautiful views of Martha's Vineyard and passing ferries.",
+        "image": "/images/beaches/falmouth-heights-beach.jpg",
+        "coordinates": {
+            "latitude": 41.5403,
+            "longitude": -70.5967
+        }
+    },
+    {
+        "id": "wood-neck-beach",
+        "name": "Wood Neck Beach",
+        "town": "Falmouth",
+        "description": "A serene beach with calm waters and a salt marsh, ideal for nature lovers and bird watchers.",
+        "image": "/images/beaches/wood-neck-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6137,
+            "longitude": -70.6398
+        }
+    },
+    {
+        "id": "surf-drive-beach",
+        "name": "Surf Drive Beach",
+        "town": "Falmouth",
+        "description": "A long, narrow beach with views of Martha's Vineyard, perfect for jogging, walking, and watching spectacular sunsets.",
+        "image": "/images/beaches/surf-drive-beach.jpg",
+        "coordinates": {
+            "latitude": 41.5430,
+            "longitude": -70.6093
+        }
+    },
+    {
+        "id": "chapoquoit-beach",
+        "name": "Chapoquoit Beach",
+        "town": "Falmouth",
+        "description": "A less crowded beach with strong waves, popular among surfers and those seeking a more secluded beach experience.",
+        "image": "/images/beaches/chapoquoit-beach.jpg",
+        "coordinates": {
+            "latitude": 41.5952,
+            "longitude": -70.6413
+        }
+    },
+    {
+        "id": "menauhant-beach",
+        "name": "Menauhant Beach",
+        "town": "Falmouth",
+        "description": "A family-friendly beach with calm waters and a jetty, offering great views of Vineyard Sound and nearby islands.",
+        "image": "/images/beaches/menauhant-beach.jpg",
+        "coordinates": {
+            "latitude": 41.5524,
+            "longitude": -70.5388
+        }
+    },
+    {
+        "id": "bristol-beach",
+        "name": "Bristol Beach",
+        "town": "Falmouth",
+        "description": "A small, quiet beach perfect for locals and visitors seeking a peaceful seaside retreat with views of Buzzards Bay.",
+        "image": "/images/beaches/bristol-beach.jpg",
+        "coordinates": {
+            "latitude": 41.5553,
+            "longitude": -70.6140
+        }
+    }
+]

@@ -1,0 +1,162 @@
+{
+    "town": "Falmouth",
+    "state": "Massachusetts",
+    "food_and_drink": [
+      {
+        "name": "The Glass Onion",
+        "type": "Fine Dining",
+        "cuisine": "Contemporary American",
+        "price_range": "$$$",
+        "address": "37 North Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5528,
+          "longitude": -70.6156
+        },
+        "website": "https://www.theglassoniondining.com",
+        "hours": "Tue-Sun: 5:00pm-9:00pm"
+      },
+      {
+        "name": "Osteria La Civetta",
+        "type": "Italian",
+        "cuisine": "Italian",
+        "price_range": "$$$",
+        "address": "133 Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5522,
+          "longitude": -70.6165
+        },
+        "website": "https://www.osterialacivetta.com",
+        "hours": "Tue-Sun: 5:00pm-9:00pm"
+      },
+      {
+        "name": "Anejo Mexican Bistro",
+        "type": "Mexican",
+        "cuisine": "Mexican",
+        "price_range": "$$",
+        "address": "188 Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5518,
+          "longitude": -70.6170
+        },
+        "website": "https://www.anejomexicanbistro.com",
+        "hours": "Mon-Sun: 11:30am-9:00pm"
+      },
+      {
+        "name": "Pickle Jar Kitchen",
+        "type": "Cafe",
+        "cuisine": "American, Breakfast",
+        "price_range": "$$",
+        "address": "170 Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5519,
+          "longitude": -70.6168
+        },
+        "website": "https://www.picklejarkitchen.com",
+        "hours": "Mon-Sun: 7:00am-2:00pm"
+      },
+      {
+        "name": "Quarterdeck Restaurant",
+        "type": "Seafood",
+        "cuisine": "American, Seafood",
+        "price_range": "$$",
+        "address": "164 Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5520,
+          "longitude": -70.6167
+        },
+        "website": "https://www.quarterdeckfalmouth.com",
+        "hours": "Mon-Sun: 11:30am-9:00pm"
+      },
+      {
+        "name": "The Clam Shack",
+        "type": "Seafood",
+        "cuisine": "American, Seafood",
+        "price_range": "$$",
+        "address": "227 Clinton Ave, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5417,
+          "longitude": -70.5969
+        },
+        "website": "https://www.clamshackfalmouth.com",
+        "hours": "Seasonal: Daily 11:00am-8:00pm (May-September)"
+      },
+      {
+        "name": "Bear in Boots Gastropub",
+        "type": "Gastropub",
+        "cuisine": "American",
+        "price_range": "$$",
+        "address": "285 Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5512,
+          "longitude": -70.6175
+        },
+        "website": "https://www.bearinboots.com",
+        "hours": "Tue-Sun: 11:30am-9:00pm"
+      },
+      {
+        "name": "Maison Villatte",
+        "type": "Bakery",
+        "cuisine": "French",
+        "price_range": "$$",
+        "address": "267 Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5514,
+          "longitude": -70.6173
+        },
+        "website": "https://www.maisonvillatte.com",
+        "hours": "Tue-Sun: 7:00am-5:00pm"
+      },
+      {
+        "name": "C Salt Wine Bar & Grille",
+        "type": "Wine Bar",
+        "cuisine": "Contemporary American",
+        "price_range": "$$$",
+        "address": "75 Davis Straits, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5439,
+          "longitude": -70.6082
+        },
+        "website": "https://www.csaltfalmouth.com",
+        "hours": "Tue-Sat: 5:00pm-10:00pm"
+      },
+      {
+        "name": "Shipwrecked",
+        "type": "Pub",
+        "cuisine": "American",
+        "price_range": "$$",
+        "address": "263 Grand Ave, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5419,
+          "longitude": -70.5963
+        },
+        "website": "https://www.shipwreckedfalmouth.com",
+        "hours": "Mon-Sun: 11:30am-1:00am"
+      },
+      {
+        "name": "Añejo Mexican Bistro & Tequila Bar",
+        "type": "Mexican",
+        "cuisine": "Mexican",
+        "price_range": "$$",
+        "address": "188 Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5518,
+          "longitude": -70.6170
+        },
+        "website": "https://www.anejomexicanbistro.com",
+        "hours": "Mon-Sun: 11:30am-10:00pm"
+      },
+      {
+        "name": "Simply Divine Pizza Co",
+        "type": "Pizzeria",
+        "cuisine": "Italian",
+        "price_range": "$$",
+        "address": "271 Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5514,
+          "longitude": -70.6174
+        },
+        "website": "https://www.simplydivinepizzaco.com",
+        "hours": "Mon-Sun: 11:00am-9:00pm"
+      }
+    ]
+  }

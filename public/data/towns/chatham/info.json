@@ -1,0 +1,93 @@
+{
+    "name": "Chatham",
+    "state": "Massachusetts",
+    "county": "Barnstable",
+    "region": "Cape Cod",
+    "population": 6125,
+    "area_sq_km": 63.8,
+    "time_zone": "Eastern Time Zone",
+    "website": "https://www.chatham-ma.gov",
+    "description": "Chatham is a picturesque coastal town located at the elbow of Cape Cod. Known for its beautiful beaches, historic lighthouse, and charming downtown area, it's a popular summer destination.",
+    "coordinates": {
+      "latitude": 41.6818,
+      "longitude": -69.9595
+    },
+    "villages": [
+      "Chatham Center",
+      "North Chatham",
+      "South Chatham",
+      "West Chatham"
+    ],
+    "transportation": {
+      "airports": [
+        {
+          "name": "Chatham Municipal Airport",
+          "code": "CQX",
+          "description": "Small public airport serving private and charter flights"
+        }
+      ],
+      "bus_services": [
+        {
+          "name": "Cape Cod Regional Transit Authority (CCRTA)",
+          "website": "https://www.capecodrta.org",
+          "description": "Provides public bus service throughout Chatham and Cape Cod"
+        }
+      ],
+      "ferry_services": [
+        {
+          "name": "Chatham Ferry Service",
+          "website": "https://www.chathamferry.com",
+          "description": "Offers ferry services to Nantucket and Martha's Vineyard from Chatham Fish Pier"
+        }
+      ],
+      "taxi_services": [
+        "Chatham Taxi",
+        "Cape Cab"
+      ],
+      "ride_sharing": [
+        "Uber",
+        "Lyft"
+      ],
+      "bike_rentals": [
+        {
+          "name": "Chatham Cycle",
+          "location": "Chatham Center",
+          "website": "https://www.chathamcycle.com"
+        }
+      ]
+    },
+    "tourist_information": {
+      "visitor_center": {
+        "name": "Chatham Chamber of Commerce Information Booth",
+        "address": "533 Main St, Chatham, MA 02633",
+        "phone": "+1 (508) 945-5199"
+      },
+      "best_time_to_visit": "Late spring to early fall (May to September)",
+      "popular_events": [
+        {
+          "name": "Chatham Independence Day Parade",
+          "month": "July",
+          "description": "Annual Fourth of July parade through downtown Chatham"
+        },
+        {
+          "name": "Chatham Festival of the Arts",
+          "month": "August",
+          "description": "Annual outdoor art festival featuring local and regional artists"
+        }
+      ]
+    },
+    "emergency_services": {
+      "police": "911 or +1 (508) 945-1213",
+      "fire": "911",
+      "hospital": {
+        "name": "Cape Cod Hospital",
+        "address": "27 Park St, Hyannis, MA 02601",
+        "phone": "+1 (508) 771-1800"
+      }
+    },
+    "climate": {
+      "summer_avg_high_celsius": 24,
+      "winter_avg_low_celsius": -1,
+      "annual_rainfall_mm": 1168
+    }
+  }

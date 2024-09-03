@@ -5,66 +5,9 @@
         "town": "Barnstable",
         "description": "A popular, expansive beach with soft sand and gentle waves, perfect for families and swimming.",
         "image": "/images/beaches/craigville-beach.jpg",
-        "tags": [
-            "family-friendly",
-            "swimming",
-            "sunbathing",
-            "lifeguards"
-        ],
         "coordinates": {
             "latitude": 41.6275,
             "longitude": -70.3267
-        },
-        "ratings": {
-            "environmental_factors": {
-                "water_quality": 85,
-                "sand_quality": 90,
-                "beach_width": 40,
-                "wave_conditions": {
-                    "height": 0.5,
-                    "frequency": 8
-                },
-                "water_temperature": 21
-            },
-            "facilities_and_services": {
-                "parking_availability": 0.8,
-                "restroom_facilities": 75,
-                "lifeguard_presence": 8,
-                "food_and_drink_options": {
-                    "count": 3,
-                    "variety": 70
-                },
-                "rental_services": 60
-            },
-            "accessibility_and_safety": {
-                "handicap_accessibility": 80,
-                "public_transportation_access": 50,
-                "safety_record": 5,
-                "beach_slope": 3
-            },
-            "recreational_opportunities": {
-                "swimming_conditions": 90,
-                "surfing_quality": 30,
-                "fishing_opportunities": 50,
-                "snorkeling_diving_spots": 40
-            },
-            "natural_beauty_and_wildlife": {
-                "scenic_value": 85,
-                "wildlife_diversity": {
-                    "count": 20,
-                    "variety": 60
-                },
-                "vegetation": 70
-            },
-            "crowding_and_atmosphere": {
-                "crowd_density": 0.1,
-                "noise_level": 60,
-                "family_friendliness": 90
-            },
-            "environmental_protection": {
-                "conservation_efforts": 75,
-                "cleanliness": 85
-            }
         }
     },
     {
@@ -73,134 +16,64 @@
         "town": "Cotuit",
         "description": "A serene, protected beach with calm waters, ideal for families and kayaking enthusiasts.",
         "image": "/images/beaches/loop-beach.jpg",
-        "tags": [
-            "family-friendly",
-            "kayaking",
-            "swimming",
-            "picnicking"
-        ],
         "coordinates": {
             "latitude": 41.6085,
             "longitude": -70.4379
-        },
-        "ratings": {
-            "environmental_factors": {
-                "water_quality": 88,
-                "sand_quality": 85,
-                "beach_width": 30,
-                "wave_conditions": {
-                    "height": 0.2,
-                    "frequency": 5
-                },
-                "water_temperature": 20
-            },
-            "facilities_and_services": {
-                "parking_availability": 0.6,
-                "restroom_facilities": 70,
-                "lifeguard_presence": 6,
-                "food_and_drink_options": {
-                    "count": 1,
-                    "variety": 40
-                },
-                "rental_services": 30
-            },
-            "accessibility_and_safety": {
-                "handicap_accessibility": 60,
-                "public_transportation_access": 30,
-                "safety_record": 4,
-                "beach_slope": 2
-            },
-            "recreational_opportunities": {
-                "swimming_conditions": 85,
-                "surfing_quality": 10,
-                "fishing_opportunities": 70,
-                "snorkeling_diving_spots": 50
-            },
-            "natural_beauty_and_wildlife": {
-                "scenic_value": 90,
-                "wildlife_diversity": {
-                    "count": 25,
-                    "variety": 70
-                },
-                "vegetation": 80
-            },
-            "crowding_and_atmosphere": {
-                "crowd_density": 0.05,
-                "noise_level": 40,
-                "family_friendliness": 95
-            },
-            "environmental_protection": {
-                "conservation_efforts": 80,
-                "cleanliness": 90
-            }
         }
     },
     {
         "id": "ropes-beach",
         "name": "Ropes Beach",
-        "town": "cotuit",
+        "town": "Cotuit",
         "description": "A charming, secluded beach known for its calm waters and scenic views of Cotuit Bay.",
         "image": "/images/beaches/ropes-beach.jpg",
-        "tags": [
-            "family-friendly",
-            "swimming",
-            "picnicking",
-            "fishing"
-        ],
         "coordinates": {
             "latitude": 41.5991,
             "longitude": -70.4394
-        },
-        "ratings": {
-            "environmental_factors": {
-                "water_quality": 90,
-                "sand_quality": 82,
-                "beach_width": 25,
-                "wave_conditions": {
-                    "height": 0.1,
-                    "frequency": 3
-                },
-                "water_temperature": 21
-            },
-            "facilities_and_services": {
-                "parking_availability": 0.4,
-                "restroom_facilities": 50,
-                "lifeguard_presence": 0,
-                "food_and_drink_options": {
-                    "count": 0,
-                    "variety": 0
-                },
-                "rental_services": 0
-            },
-            "accessibility_and_safety": {
-                "handicap_accessibility": 40,
-                "public_transportation_access": 20,
-                "safety_record": 4,
-                "beach_slope": 3
-            },
-            "recreational_opportunities": {
-                "swimming_conditions": 88,
-                "surfing_quality": 5,
-                "fishing_opportunities": 75,
-                "snorkeling_diving_spots": 40
-            },
-            "natural_beauty_and_wildlife": {
-                "scenic_value": 95,
-                "wildlife_diversity": {
-                    "count": 30,
-                    "variety": 75
-                },
-                "vegetation": 85
-            },
-            "crowding_and_atmosphere": {
-                "crowd_density": 0.03,
-                "noise_level": 30,
-                "family_friendliness": 90
-            },
-            "environmental_protection": {
-                "conservation_efforts": 85,
-                "cleanliness": 92
-            }
+        }
+    },
+    {
+        "id": "sandy-neck-beach",
+        "name": "Sandy Neck Beach",
+        "town": "Barnstable",
+        "description": "A six-mile-long barrier beach with diverse ecosystems, perfect for off-road vehicle enthusiasts and nature lovers.",
+        "image": "/images/beaches/sandy-neck-beach.jpg",
+        "coordinates": {
+            "latitude": 41.7275,
+            "longitude": -70.3762
+        }
+    },
+    {
+        "id": "kalmus-beach",
+        "name": "Kalmus Beach",
+        "town": "Barnstable",
+        "description": "A windsurfing paradise with strong breezes and calm waters, also great for kiteboarding and swimming.",
+        "image": "/images/beaches/kalmus-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6392,
+            "longitude": -70.2792
+        }
+    },
+    {
+        "id": "veterans-park-beach",
+        "name": "Veterans Park Beach",
+        "town": "Barnstable",
+        "description": "A family-friendly beach with calm waters, a playground, and picnic areas, offering beautiful views of Lewis Bay.",
+        "image": "/images/beaches/veterans-park-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6369,
+            "longitude": -70.2739
+        }
+    },
+    {
+        "id": "sea-street-beach",
+        "name": "Sea Street Beach",
+        "town": "Barnstable",
+        "description": "A small, quiet beach perfect for locals and visitors seeking a peaceful seaside retreat in Hyannis.",
+        "image": "/images/beaches/sea-street-beach.jpg",
+        "coordinates": {
+            "latitude": 41.6317,
+            "longitude": -70.2831
         }
     }
 ]

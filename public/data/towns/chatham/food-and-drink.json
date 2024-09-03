@@ -1,0 +1,162 @@
+{
+    "town": "Chatham",
+    "state": "Massachusetts",
+    "food_and_drink": [
+      {
+        "name": "Impudent Oyster",
+        "type": "Seafood",
+        "cuisine": "American",
+        "price_range": "$$$",
+        "address": "15 Chatham Bars Ave, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6821,
+          "longitude": -69.9597
+        },
+        "website": "https://www.theimpudentoyster.com",
+        "hours": "Mon-Sun: 11:30am-9:00pm"
+      },
+      {
+        "name": "Bluefins Sushi & Sake Bar",
+        "type": "Sushi",
+        "cuisine": "Japanese",
+        "price_range": "$$$",
+        "address": "513 Main St, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6814,
+          "longitude": -69.9592
+        },
+        "website": "https://www.bluefinschatham.com",
+        "hours": "Tue-Sun: 5:00pm-10:00pm"
+      },
+      {
+        "name": "The Squire",
+        "type": "Pub",
+        "cuisine": "American",
+        "price_range": "$$",
+        "address": "487 Main St, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6815,
+          "longitude": -69.9589
+        },
+        "website": "https://www.thesquire.com",
+        "hours": "Mon-Sun: 11:30am-1:00am"
+      },
+      {
+        "name": "Hangar B Eatery",
+        "type": "Cafe",
+        "cuisine": "Breakfast, Brunch",
+        "price_range": "$$",
+        "address": "240 George Ryder Rd, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6891,
+          "longitude": -69.9964
+        },
+        "website": "https://www.hangarbchatham.com",
+        "hours": "Wed-Sun: 7:00am-2:00pm"
+      },
+      {
+        "name": "Chatham Bars Inn - STARS",
+        "type": "Fine Dining",
+        "cuisine": "Contemporary American",
+        "price_range": "$$$$",
+        "address": "297 Shore Rd, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6807,
+          "longitude": -69.9516
+        },
+        "website": "https://www.chathambarsinn.com/dining/stars",
+        "hours": "Wed-Sun: 5:30pm-9:00pm"
+      },
+      {
+        "name": "Chatham Cheese Company",
+        "type": "Specialty Food",
+        "cuisine": "Cheese, Sandwiches",
+        "price_range": "$$",
+        "address": "902 Main St, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6834,
+          "longitude": -69.9666
+        },
+        "website": "https://www.chathamcheese.com",
+        "hours": "Mon-Sat: 10:00am-5:00pm"
+      },
+      {
+        "name": "Pate's Restaurant",
+        "type": "Seafood",
+        "cuisine": "American",
+        "price_range": "$$$",
+        "address": "1260 Main St, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6851,
+          "longitude": -69.9729
+        },
+        "website": "https://www.patesrestaurant.com",
+        "hours": "Tue-Sun: 5:00pm-9:00pm"
+      },
+      {
+        "name": "Vining's Bistro",
+        "type": "Bistro",
+        "cuisine": "American, French",
+        "price_range": "$$$",
+        "address": "905 Main St, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6834,
+          "longitude": -69.9667
+        },
+        "website": "https://www.viningsbistro.com",
+        "hours": "Tue-Sun: 5:00pm-9:00pm"
+      },
+      {
+        "name": "Del Mar Bar & Bistro",
+        "type": "Bistro",
+        "cuisine": "Mediterranean",
+        "price_range": "$$$",
+        "address": "907 Main St, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6834,
+          "longitude": -69.9668
+        },
+        "website": "https://www.delmarbarandbistro.com",
+        "hours": "Mon-Sun: 11:30am-9:00pm"
+      },
+      {
+        "name": "The Wild Goose Tavern",
+        "type": "Gastropub",
+        "cuisine": "American",
+        "price_range": "$$",
+        "address": "512 Main St, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6815,
+          "longitude": -69.9591
+        },
+        "website": "https://www.wildgoosetavern.com",
+        "hours": "Mon-Sun: 11:30am-10:00pm"
+      },
+      {
+        "name": "Chatham Fish & Lobster",
+        "type": "Seafood Market",
+        "cuisine": "Seafood",
+        "price_range": "$$",
+        "address": "1291 Main St, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6854,
+          "longitude": -69.9735
+        },
+        "website": "https://www.chathamfishandlobster.com",
+        "hours": "Mon-Sat: 10:00am-6:00pm"
+      },
+      {
+        "name": "Bistro on Main",
+        "type": "Bistro",
+        "cuisine": "American",
+        "price_range": "$$$",
+        "address": "593 Main St, Chatham, MA 02633",
+        "coordinates": {
+          "latitude": 41.6819,
+          "longitude": -69.9603
+        },
+        "website": "https://www.bistroonmainchatham.com",
+        "hours": "Tue-Sun: 5:00pm-9:00pm"
+      }
+    ]
+  }

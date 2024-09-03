@@ -1,0 +1,175 @@
+{
+    "town": "Chatham",
+    "state": "Massachusetts",
+    "season": "Summer",
+    "activities": [
+      {
+        "name": "Chatham Marconi Maritime Center",
+        "type": "Museum",
+        "description": "Explore the history of wireless communication and Chatham's role in maritime radio",
+        "address": "847 Orleans Rd, North Chatham, MA 02650",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://www.chathammarconi.org",
+        "coordinates": {
+          "latitude": 41.7014,
+          "longitude": -69.9724
+        }
+      },
+      {
+        "name": "Blue Claw Boat Tours",
+        "type": "Nature Tour",
+        "description": "Enjoy scenic boat tours of Chatham's waterways and spot local wildlife",
+        "address": "1 Barcliff Ave, Chatham, MA 02633",
+        "price_range": "$$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.blueclawboattours.com",
+        "coordinates": {
+          "latitude": 41.6838,
+          "longitude": -69.9522
+        }
+      },
+      {
+        "name": "Monomoy National Wildlife Refuge",
+        "type": "Nature Reserve",
+        "description": "Explore diverse habitats and observe various bird species in this protected area",
+        "address": "30 Wikis Way, Chatham, MA 02633",
+        "price_range": "Free",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.fws.gov/refuge/monomoy",
+        "coordinates": {
+          "latitude": 41.6750,
+          "longitude": -69.9385
+        }
+      },
+      {
+        "name": "Chatham Orpheum Theater",
+        "type": "Entertainment",
+        "description": "Watch films in a beautifully restored historic theater",
+        "address": "637 Main St, Chatham, MA 02633",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://www.chathamorpheum.org",
+        "coordinates": {
+          "latitude": 41.6814,
+          "longitude": -69.9592
+        }
+      },
+      {
+        "name": "Chatham Seaside Links",
+        "type": "Outdoor Recreation",
+        "description": "Play a round of golf with beautiful ocean views",
+        "address": "66 Holway St, Chatham, MA 02633",
+        "price_range": "$$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.chathamseaidelinks.com",
+        "coordinates": {
+          "latitude": 41.6726,
+          "longitude": -69.9522
+        }
+      },
+      {
+        "name": "Atwood House Museum",
+        "type": "Museum",
+        "description": "Discover Chatham's rich history in this 18th-century house museum",
+        "address": "347 Stage Harbor Rd, Chatham, MA 02633",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://www.chathamhistoricalsociety.org",
+        "coordinates": {
+          "latitude": 41.6716,
+          "longitude": -69.9715
+        }
+      },
+      {
+        "name": "Chatham Railroad Museum",
+        "type": "Museum",
+        "description": "Explore a restored 1910 railroad station and learn about local rail history",
+        "address": "153 Depot Rd, Chatham, MA 02633",
+        "price_range": "$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://www.chathamrailroadmuseum.com",
+        "coordinates": {
+          "latitude": 41.6808,
+          "longitude": -69.9589
+        }
+      },
+      {
+        "name": "Chatham Fish Pier",
+        "type": "Cultural Experience",
+        "description": "Watch fishing boats unload their catch and possibly spot seals",
+        "address": "45 Barcliff Ave, Chatham, MA 02633",
+        "price_range": "Free",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.mychatham.com/chatham-fish-pier",
+        "coordinates": {
+          "latitude": 41.6839,
+          "longitude": -69.9516
+        }
+      },
+      {
+        "name": "Outermost Adventures",
+        "type": "Outdoor Recreation",
+        "description": "Take a boat tour to Monomoy Island or go seal watching",
+        "address": "259 Barn Hill Rd, Chatham, MA 02633",
+        "price_range": "$$$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.outermostadventures.com",
+        "coordinates": {
+          "latitude": 41.6730,
+          "longitude": -69.9516
+        }
+      },
+      {
+        "name": "Chatham Lighthouse Beach",
+        "type": "Beach",
+        "description": "Relax on this beautiful beach and visit the iconic Chatham Lighthouse",
+        "address": "30 Main St, Chatham, MA 02633",
+        "price_range": "Free",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.chatham-ma.gov/beaches",
+        "coordinates": {
+          "latitude": 41.6711,
+          "longitude": -69.9508
+        }
+      },
+      {
+        "name": "Chatham Drama Guild",
+        "type": "Entertainment",
+        "description": "Enjoy local theater productions in an intimate setting",
+        "address": "134 Crowell Rd, Chatham, MA 02633",
+        "price_range": "$$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://www.chathamdramaguild.org",
+        "coordinates": {
+          "latitude": 41.6834,
+          "longitude": -69.9778
+        }
+      },
+      {
+        "name": "Chatham Farmers Market",
+        "type": "Shopping",
+        "description": "Browse local produce, artisanal goods, and crafts at this weekly market",
+        "address": "1652 Main St, Chatham, MA 02633",
+        "price_range": "$",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.chathamfarmersmarket.org",
+        "coordinates": {
+          "latitude": 41.6856,
+          "longitude": -69.9780
+        }
+      }
+    ]
+  }

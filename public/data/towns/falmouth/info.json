@@ -1,0 +1,122 @@
+{
+    "name": "Falmouth",
+    "description": "Falmouth is a charming coastal town on Cape Cod, known for its beautiful beaches, historic downtown, and scenic harbors. It offers a perfect blend of natural beauty, cultural attractions, and outdoor activities.",
+    "image": "/images/falmouth.jpg",
+    "food_and_drink": [
+      {
+        "name": "The Glass Onion",
+        "type": "Fine Dining",
+        "cuisine": "Contemporary American",
+        "price_range": "$$$",
+        "address": "37 North Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5528,
+          "longitude": -70.6156
+        },
+        "website": "https://www.theglassoniondining.com",
+        "hours": "Tue-Sun: 5:00pm-9:00pm"
+      },
+      {
+        "name": "Osteria La Civetta",
+        "type": "Italian",
+        "cuisine": "Italian",
+        "price_range": "$$$",
+        "address": "133 Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5522,
+          "longitude": -70.6165
+        },
+        "website": "https://www.osterialacivetta.com",
+        "hours": "Tue-Sun: 5:00pm-9:00pm"
+      },
+      {
+        "name": "Anejo Mexican Bistro",
+        "type": "Mexican",
+        "cuisine": "Mexican",
+        "price_range": "$$",
+        "address": "188 Main St, Falmouth, MA 02540",
+        "coordinates": {
+          "latitude": 41.5518,
+          "longitude": -70.6170
+        },
+        "website": "https://www.anejomexicanbistro.com",
+        "hours": "Mon-Sun: 11:30am-9:00pm"
+      }
+    ],
+    "activities": [
+      {
+        "name": "Shining Sea Bikeway",
+        "type": "Outdoor Recreation",
+        "description": "Bike along a scenic 10.7-mile trail from North Falmouth to Woods Hole",
+        "address": "County Rd, North Falmouth, MA 02556",
+        "price_range": "Free",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://www.falmouthma.gov/shining-sea-bikeway",
+        "coordinates": {
+          "latitude": 41.6408,
+          "longitude": -70.6211
+        }
+      },
+      {
+        "name": "Woods Hole Science Aquarium",
+        "type": "Aquarium",
+        "description": "Explore marine life and learn about ocean science",
+        "address": "166 Water St, Woods Hole, MA 02543",
+        "price_range": "$",
+        "family_friendly": true,
+        "indoor": true,
+        "website": "https://aquarium.nefsc.noaa.gov",
+        "coordinates": {
+          "latitude": 41.5248,
+          "longitude": -70.6714
+        }
+      },
+      {
+        "name": "Nobska Lighthouse",
+        "type": "Historic Site",
+        "description": "Visit a historic lighthouse with panoramic ocean views",
+        "address": "233 Nobska Rd, Woods Hole, MA 02543",
+        "price_range": "Free",
+        "family_friendly": true,
+        "indoor": false,
+        "website": "https://friendsofnobska.org",
+        "coordinates": {
+          "latitude": 41.5153,
+          "longitude": -70.6572
+        }
+      }
+    ],
+    "beaches": [
+      {
+        "id": "old-silver-beach",
+        "name": "Old Silver Beach",
+        "description": "A popular beach with warm, shallow waters and stunning views of Buzzards Bay, perfect for families and swimming.",
+        "image": "/images/beaches/old-silver-beach.jpg",
+        "coordinates": {
+          "latitude": 41.6323,
+          "longitude": -70.6434
+        }
+      },
+      {
+        "id": "falmouth-heights-beach",
+        "name": "Falmouth Heights Beach",
+        "description": "A lively beach with soft sand and gentle waves, offering beautiful views of Martha's Vineyard and passing ferries.",
+        "image": "/images/beaches/falmouth-heights-beach.jpg",
+        "coordinates": {
+          "latitude": 41.5403,
+          "longitude": -70.5967
+        }
+      },
+      {
+        "id": "wood-neck-beach",
+        "name": "Wood Neck Beach",
+        "description": "A serene beach with calm waters and a salt marsh, ideal for nature lovers and bird watchers.",
+        "image": "/images/beaches/wood-neck-beach.jpg",
+        "coordinates": {
+          "latitude": 41.6137,
+          "longitude": -70.6398
+        }
+      }
+    ]
+  }
