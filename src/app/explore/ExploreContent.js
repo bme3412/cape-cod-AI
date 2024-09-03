@@ -100,7 +100,7 @@ export default function ExploreContent() {
     };
 
     fetchData();
-  }, [categories]);  // Added 'categories' to the dependency array
+  }, []);  // Added 'categories' to the dependency array
 
   const handleSearch = (e) => {
     e.preventDefault();
