@@ -4,10 +4,20 @@ export async function getTowns() {
   return res.json();
 }
 
-export async function getTown(id) {
-  const res = await fetch(`/api/towns/${id}`);
-  if (!res.ok) throw new Error('Failed to fetch town');
-  return res.json();
+export async function getTown(townName) {
+  const baseUrl = typeof window !== 'undefined' 
+    ? window.location.origin 
+    : process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000';
+
+  try {
+    const url = new URL(`/api/towns/${townName}`, baseUrl);
+    const res = await fetch(url.toString());
+    if (!res.ok) throw new Error(`Failed to fetch town: ${res.statusText}`);
+    return res.json();
+  } catch (error) {
+    console.error('Error fetching town:', error);
+    throw error;
+  }
 }
 
 export async function getBeaches() {
